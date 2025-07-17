@@ -2,7 +2,8 @@ book_filename: "Course_Name"
 chapter_name: "Chapter "
 repo: https://github.com/jhudsl/OTTR_Template/
 rmd_files: ["index.Rmd",
-            "introduction.Rmd",
+            "about_c-moor.Rmd",
+            "scientific-process.Rmd",
             "anvil.Rmd",
             "sciserver.Rmd",
             "community-analysis-and-feedback.Rmd",
