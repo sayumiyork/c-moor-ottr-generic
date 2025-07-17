@@ -28,7 +28,7 @@ In this section we will go over how to create a scientific poster. We chose a po
 
 *Estimated time: ---*
 
-![](resources/images/community-analysis-and-feedback_files/figure-docx//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g362823fe47a_0_72.png){width=100%}
+![](resources/images/community-analysis-and-feedback_files/figure-docx//1-orSi8DpN22hMt9-6p_rHZnte1YXXLe-a132HDSyd0U_g35f391192_00.png){width=100%}
 
 
 [Scientific Posters](https://docs.google.com/presentation/d/1-orSi8DpN22hMt9-6p_rHZnte1YXXLe-a132HDSyd0U/edit?usp=sharing)
@@ -391,10 +391,7 @@ Now that you've finished your C-MOOR project, how do you close out your research
 
 ### Introduction
 
-Congratulations on making it to the end of Microbial Mysteries!  Take a moment and reflect on all that you've accomplished during this semester, especially those of you who reported in the Welcome Poll "No experience" with Microbiology, Galaxy, and Scientific Research.  While the "Grad Student Motivation Level" PHD Comics spans years, it likely reflects the ups and downs as you developed and explored your hypothesis, including the thrill of presenting your work to people in our mini-symposium.  The feedback has been great with faculty impressed at what you’ve accomplished, the depth that you understand your projects, and even one scientist who does metagenomics research reporting that they learned a new trick or two!  
-
-
-We’ll wrap up today with several next steps including completing feedback to improve the next offering of this course , researching opportunities to do more science, exploring communities where scientists openly share insights, and optionally sharing more work.
+We’ll wrap up with several next steps including completing feedback to improve the next offering of this course , researching opportunities to do more science, exploring communities where scientists openly share insights, and optionally sharing more work.
 
 ### Activity 1 – Complete Feedback
 
@@ -403,11 +400,12 @@ We’ll wrap up today with several next steps including completing feedback to i
 #### Instructions
 
 Help us improve this course as we work to grow enrollment to accommodate 32 to 64 students, incorporate graduate TAs and undergraduate course assistants and tutors,  and promote more computational training and research opportunities throughout departmental courses
+
 https://forms.gle/XkqiMERHc2PETmy4A
 
 ### Activity 2 – Research Opportunities
 
-|1. Find one LAB at YOUR INSTITUTION  that you would work in and explain why.|
+|1. Find one LAB at YOUR INSTITUTION/GEOGRAPHIC AREA that you would work in and explain why.|
 |:---|
 | Your text here:|
 <br>
@@ -472,17 +470,15 @@ c. Bluesky: Social media as it should be
 
 1. Upload photos – Especially photo of your group standing in front of your poster
 
-- [https://drive.google.com/drive/folders/1y_GCJl7VIYTS_5y7057u2s58ZCdm_PxM](https://drive.google.com/drive/folders/1y_GCJl7VIYTS_5y7057u2s58ZCdm_PxM)
-
 2. Publicly share poster – If every member of your group is ok sharing your work publicly
 
 - [https://help.c-moor.org/c/look-at-this/8](https://help.c-moor.org/c/look-at-this/8)
 
-## Grading Criteria
+### Grading Criteria
 
 - Download as Microsoft Word (.docx) and upload on Canvas
 
-## Footnotes
+### Footnotes
 
 **Resources**
 
@@ -500,7 +496,7 @@ c. Bluesky: Social media as it should be
 
 Everyone who completes a C-MOOR project can add their experience to their resume or CV! We advise you and your students to do this as soon as possible after the end of class while your research project is still on your mind.
 
-#### Resume or CV?
+### Resume or CV?
 
 You may hear the terms resume and CV being used interchangeably. While both are drawn from the same information, they vary in brevity and focus.
 

@@ -4,7 +4,7 @@
 
 
 
-## The Scientific Process
+# The Scientific Process
 
 *Estimated time: 30 min*
 
