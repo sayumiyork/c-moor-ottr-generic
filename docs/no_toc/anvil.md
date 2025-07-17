@@ -1,11 +1,11 @@
 
-# (PART\*) INTRODUCTION TO THE WORLD OF RESEARCH {-}
+# (PART\*) Setting up on a cloud platform {-}
 
 # Setting up on a cloud platform
 
-Your class will use either AnVIL or SciServer as their cloud platform for accessing tutorial modules, data, and computational resources. Refer to the appropriate section for your class. You do not have to sign up for both!
+Your class will use either AnVIL or SciServer as their cloud platform for accessing tutorial modules, data, and computational resources. Refer to the appropriate section for your class. **You do not have to sign up for both!**
 
-## Join AnVIL
+# Join AnVIL
 
 *The Genomic Data Science Analysis, Visualization, and Informatics Lab-space*
 
@@ -28,13 +28,9 @@ AnVIL (The Genomic Data Science **An**alysis, **V**isualization, and **I**nforma
 National Human Genome Research Institute (NHGRI) in collaboration with cloud computing platform providers like Google and Microsoft. Using AnVIL we you can access computing resources on the cloud through your browser without need for any fancy physical equipment. Through AnVIL you will also have access to all the software and data necessary to complete your research project. 
 
 
-### Instructions
-
-#### Create an account on AnVIL
+## Create an account on AnVIL
 
 This video ([video](https://drive.google.com/file/d/1Fk8Ha-cpAuaXccnsppGXNbRPbIdS5hFR/view?usp=sharing))([slides](---)) show you how to create an AnVIL account, clone a workspace, run a module, and then close down your environment. 
-
-##### Sign up for an account on AnVIL
 
 1. Open [anvil.terra.bio](https://anvil.terra.bio/) in <mark> **Google Chrome** </mark>. Google Chrome is the only officially supported web browser for AnIVL.
     a. It is a good idea to bookmark this page so that you can easily access it throughout the course.
@@ -47,7 +43,7 @@ This video ([video](https://drive.google.com/file/d/1Fk8Ha-cpAuaXccnsppGXNbRPbId
 
 **Your instructor will add you to a billing project that will allow you to use computational resources on AnVIL. Until they do so, you will not be able to compute anything.** 
 
-##### Clone a workspace on AnVIL
+## Clone a workspace on AnVIL
 
 1. While logged into AnVIL, using the hamburger icon in the top left corner of the screen, navigate to the workspaces page
 1. Select the public tab
@@ -62,7 +58,7 @@ This video ([video](https://drive.google.com/file/d/1Fk8Ha-cpAuaXccnsppGXNbRPbId
 <img src="anvil_files/figure-html//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g3632cdae791_0_18.png" alt="Settings for cloning a workspace on AnVIL. Adjust the fields shown above." width="100%" style="display: block; margin: auto;" />
 
 
-##### Running modules on AnVIL
+# Running modules on AnVIL
 
 When you open the workspace, you will be on the dashboard tab by default. The dashboard contains the instructions on how to use the workspace, links to C-MOOR websites, and the startup script.
 
@@ -194,7 +190,7 @@ It will take some time for the RStudio Environment to be created. You can keep t
 ## ──────────────────────────────────────────────────────────────────────────────
 ```
 
-##### Closing out a session on AnVIL
+## Closing out a session on AnVIL
 
 1. On the right side of the screen, click the Cloud Environment button. This is the Cloud with the lighting symbol.
 1. Under the RStudio section, click settings.
