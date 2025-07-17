@@ -7,7 +7,6 @@ rmd_files: ["index.Rmd",
             "anvil.Rmd",
             "sciserver.Rmd",
             "community-analysis-and-feedback.Rmd",
-            "About.Rmd",
             "References.Rmd"]
 new_session: yes
 delete_merged_file: true

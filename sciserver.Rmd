@@ -83,9 +83,6 @@ The purpose of this assignment is to:
   1. join the class SciServer group so you can access course materials
   2. learn how to access the modules for your course on SciServer.
 
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "The groups page on SciServer, which you can use to confirm your membership and data access privileges"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs/edit#slide=id.g3632cdae791_0_255")
-```
 
 ### Learning Objectives
 
