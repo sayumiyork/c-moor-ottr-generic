@@ -134,7 +134,7 @@ This video ([video](https://link.c-moor.org/video-sciserver-create-learnr-contai
 1. Scroll down to the second set of boxes and click “Compute”
 1. Click “Create container”
     a. Give your container a name.  This can be anything you like, but it’s useful if it says something about the purpose of the container so you can tell your containers apart.  You could name this container “Tutorials”, since you’ll be using it to access tutorials.
-    a. In the “**Compute Image**” drop-down menu, select “**C-MOOR LearnR**”
+    a. In the “**Compute Image**” drop-down menu, select the “**C-MOOR LearnR that your instructor chooses**”
     a. Under “**Data Volumes**”, check the box next to “**C-MOOR Data**”
     a. Click “Create”.  This may take a moment.
 1. You should now see a new entry in your list of containers
