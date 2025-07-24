@@ -3,6 +3,11 @@ chapter_name: "Chapter "
 repo: https://github.com/jhudsl/OTTR_Template/
 rmd_files: ["index.Rmd",
             "about_c-moor.Rmd",
+            "instructor_guide.Rmd",
+            "anvil-make-account.Rmd",
+            "anvil-billing-projects.Rmd",
+            "anvil-run-module.Rmd",
+            "instructor-sciserver.Rmd",
             "scientific-process.Rmd",
             "anvil.Rmd",
             "sciserver.Rmd",
