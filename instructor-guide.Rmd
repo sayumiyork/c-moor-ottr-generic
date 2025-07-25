@@ -9,7 +9,7 @@ ottrpal::set_knitr_image_path()
 
 Welcome to new and seasoned instructors alike! We are excited to have you use a C-MOOR module in your class. This section of our OTTR book is specifically for instructors and will help you prepare for teaching a C-MOOR offering as a part of your class. 
 
-## What is a CURE?
+## Course-based undergraduate research experiences
 
 A **course-based undergraduate research experience (CURE)** is a high impact practice (HIP) where students learn through authentic research. In addition to the standard concepts of the material and the technical skills required to complete lab exercises students gain critical thinking skills troubleshooting their research projects. They don't just learn about science; they practice it!
 
