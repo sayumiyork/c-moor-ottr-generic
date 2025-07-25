@@ -1,7 +1,7 @@
 
 # C-MOOR Overview
 
-### What is C-MOOR?
+### About C-MOOR
 
 C-MOOR is a project to invite students to join the data science revolution and be part of the next generation of data scientists. This project provides online materials to help students and instructors incorporate authentic research experiences in lower division courses. 
 
