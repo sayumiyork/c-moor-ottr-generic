@@ -30,7 +30,6 @@ In this section we will go over how to create a scientific poster. We chose a po
 
 ![](resources/images/community-analysis-and-feedback_files/figure-docx//1-orSi8DpN22hMt9-6p_rHZnte1YXXLe-a132HDSyd0U_g35f391192_00.png){width=100%}
 
-
 [Scientific Posters](https://docs.google.com/presentation/d/1-orSi8DpN22hMt9-6p_rHZnte1YXXLe-a132HDSyd0U/edit?usp=sharing)
 
 ## Activity - Scientific Posters
@@ -63,7 +62,7 @@ In this section we will go over how to create a scientific poster. We chose a po
 
 ### Grading Criteria
 
-- <mark style="background-color: yellow">Submit URL to your reply on Canvas
+- <mark style="background-color: yellow">Submit URL to your reply on Canvas</mark>.
 
 ### Footnotes
 
@@ -75,7 +74,7 @@ In this section we will go over how to create a scientific poster. We chose a po
 Last Revised: February 2025
 
 
-## Making Your Group Poster 
+## Making Group Poster 
 
 ### Preparing to make a poster
 
@@ -88,15 +87,12 @@ An important part of scientific research is presenting your findings. Poster is 
 1. With your group, open a suggested [poster template](https://docs.google.com/presentation/d/1chz02nzYklAEjOtHrPsJZccGy1sFUZvqdlfcUyfj3I4/edit?usp=sharing) to use for your poster. 
 1. Discuss with your group how you will divide up the work and exchange important information (e.g. phone numbers, email). Consider the following sections: 
 
-- Abstract
-- Introduction
+- Abstract/Introduction
 - Methods
 - Results
 - Conclusions/Discussion
 - References 
 - Acknowledgments
-
-**Not every poster has every section. Refer to your instructor and their rubric on what to include in your poster.**
 
 Notice these posters are sized at 36 x 42 inches, but there are many other commonly used sizes. Refer to your instructor on what poster size to use; not every poster will fit every stand when printed (if applicable). Notice that the posters in this slidedeck come in two-column, three-column, and mixed formats. Think about your figures and tables and select a format that makes the most sense for them. There are also some example posters in the last two slides that we will use to examine the anatomy of a research poster further in the next part.
 
@@ -120,6 +116,19 @@ We will include the C-MOOR logo, the logo of your institution(s), and the most i
 
 <!-- NOTE: &nbsp; creates a space in Markdown. In this instance, adding extra spaces after the checkbox didn't seem to work. -->
 
+**Check the header of your poster:**
+
+- [ ] &nbsp;All authors are listed
+- [ ] &nbsp;All authors’ home institutions are referenced
+- [ ] &nbsp;The title of the poster is focused on your specific project topic (ex. genes, variables, model organism)
+
+`The title of the poster describes the main result of your research`
+`The title of the poster does not overstate the findings or significance of your research`
+
+- [ ] &nbsp;The C-MOOR logo is included
+- [ ] &nbsp;The logos of your institutions are included
+
+
 
 #### Abstract
 
@@ -131,50 +140,51 @@ PacBio's published abstract on 'Genome-resolved metagenome assembly of human ora
 
 ![](resources/images/community-analysis-and-feedback_files/figure-docx//1hYKF7Ss3vJ8rrUIH7ByNh1BUlRa2fhsJhq8MXzEowCc_g33d6e3b928f_0_149.png){width=100%}
 
-An abstract is a concise summary of your research project from start to finish. An effective abstract will inform the reader of the relevant background to the research, the scientific hypothesis being tested, the purpose of the study, the main methods, and the most important results and conclusions. 
+An abstract is a concise summary of your work. An effective abstract will inform the reader of the relevant background to the research, scientific hypothesis being tested, the purpose of the study, the main methods, and the most important results and conclusions.  
 
-The abstract can be difficult to write because it combines all sections from your research and requires effective and concise communication of those sections. Many scientists choose to write the abstract last, after they fully understand the conclusions and implications of their work. Identify your scientific question, your hypothesis, and the knowledge gap (the unknown your research is addressing) first. Then brainstorm what you will need to tell your readers in terms of context and background. 
+Abstract can be difficult to write because it combines all research pieces and requires effective and consice communication of those sections.
+Many scientists choose to write the abstract last, after they fully understand the conclusions and implications of their work. Identify your scientific question, your hypothesis, and the knowledge gap (the unknown your research is addressing) first. Then brainstorm what you will need to tell your readers in terms of context and background. 
 
 **Your abstract should do the following:**
 
-1. Include relevant background information such as*: 
+1. Include relevant background information such as: 
 
 ```
-- The model organism
-- The relevant phenotypes (ex. disease-state)
-- The gene of interest and its function
-- The known connection between the microbiome or gene and the phenotype
-- Relevant biological processes (ex. pathways)
+- A problem or question at hand 
+- Model organism
+- The gene of interest and its function 
+- The relevant phenotypes (e.g. disease-state) 
+- The known connection between genotype and phenotype
+- Relevant biological processes
 ```
 
-2. Clearly state hypothesis, aims, and/or objectives of the research:
+2. Clearly state hypothesis, aims, and/or objectives of the research.
 
 ```
 - e.g. Our hypothesis is that the healthy gut microbiome has more microbial diversity than the gut of an individual with a celiac disease.`
 - e.g. We hypothesize that maternal antibiotic treatment correlates with higher antibicrobial resistance in infant microbiome.`
 ```
 
-3. Briefly mention methodology you used in your research
+3. Summarize or briefly mention methodology you used in your research.
 
 ```
 - e.g. Using Galaxy we analyzed the genomic diversity of the gut microbiome and compared fecal samples between individuals with Celiac Disease (CD) and a control group on a healthy diet without CD.`
-- e.g. We analyzed a publically available dataset comparing RNA-seq gene expression data between the left and right eyes in DESeq2."
+- e.g. We analyzed a publically available dataset comparing RNA-seq gene expression between the left and right eye in DESeq2.`
 ```
 
-4. Summarize the main results of your study and how they relate to the hypothesis/aims/objectives you outlined earlier
+4. Summarize the main results of your study, and how they may relate to the hypothesis.
 
 ```
 - e.g. We found that gene X was differentially abundant between the eye and all other tissues, suggesting gene X plays an important role in the eye. This may be important for learning more about eye development and X condition.` 
 - e.g. We found an association between age and the presence of Y bacteria, which supports our hypothesis that Y bacteria is involved in the disease state`
 ```
 
-
-
 #### Introduction
 
 ![](resources/images/community-analysis-and-feedback_files/figure-docx//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g362974128df_0_18.png){width=100%}
 
-Introductions can be highly variable. Sometimes they contain the same information as the abstract under a different name. At other times, the introduction only contains the relevant information needed to understand the study and the study's hypothesis/aims/objectives and does not include the methodology, results, or takeaways from the study. In these cases, the introduction can go into more detail in comparision to an abstract.
+Introductions typically appears immediately after the Abstract section and contains background information. Sometimes, an Introduction section can be used instead of the Abstract section, in which case, the Introduction will contain both, abstract information plus additional background information. 
+An Introduction typically contains the relevant information and context needed to understand the study and the study's hypothesis/aims/objectives and does not include the methodology, results, or takeaways from the study. 
 
 
 #### Materials and Methods
@@ -196,30 +206,29 @@ The Results section is where you will detail your data primarily through **figur
 - Has high resolution images, well spaced and labeled parts and text. 
 - Place the figures and tables in order of how you want to present them and name them such as **Figure 1, Figure 2, Table 1, Table 2, etc**.
 
-**Figure/table Legends**:
+**Figure Legend**:
 
-- Figures have their legends *underneath* them. Tables have their legends *above* them.
+- Figures have their legends *underneath* them. Tables may have their legends also *above* them.
 - The legend should be in a smaller font than the main text on the poster.
-- A legend should includes a bolded **figure title**, which is a declarative statement that summarizes  findings.
+- A legend should includes a **figure title**, which is a declarative statement that summarizes  findings.
 - A legend also includes **figure text** which a) identifies (and can  briefly describe  parts), b) includes brief description of of methods necessary to understand figure and c) should include relevant statistics (stats).
 
-**Optional components:**
+**Optional components**
 
-- Bullet pointed text that summarizes the main findings of the figures/tables and references them (ex. We found result X (Fig 1))
-- A more informative section header which summarizes the main figure(s) instead of a generic "Results" header
-
+- Figures and Tables can have additional (optional) text. E.g.an optional text can describe the findings of the figure upfront to engage.
+- A **Section Title/Header** which summarizes section or figure in a manner that is broader than figure legend title - an attention grabber.
+- Bullet pointed text that summarizes the main findings of the figures/tables.
 
 #### Conclusions/Discussion
 
 ![](resources/images/community-analysis-and-feedback_files/figure-docx//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g362974128df_0_52.png){width=100%}
 
-The conclusion/discussion section of the paper is your chance to analyze and interpret your results. A discussion generally addresses the following:
+The discussion section of the paper is your chance to analyze and interpret your results. The discussion section generally addresses the following:
 
 - What do your results mean?
 - How do they fit into the bigger picture?
-- If any experiments did not give your expected results, hypothesize why that might have been the case and propose alternate experiments that could confirm or clarify your results
-- Include at least one sentence of future work that you would do if you had more time or what students in upcoming semesters could do to continue to answer your questions
-
+- If any experiments did not give expected results, hypothesize why that might have been the case and propose alternate experiments that could confirm or clarify your results.
+- Include at least one sentence of future work that you would do if you had more time or what students in upcoming semesters could do to continue to answer your questions.
 
 #### References
 
@@ -238,13 +247,12 @@ Online article that is also in print:
 Online article only:
 
 > Marianes, A. and A. C. Spradling (2013) “Physiological and stem cell compartmentalization within the Drosophila midgut.” eLife, doi:10.7554/eLife.00886
-    
+
 #### Acknowledgements
 
 ![](resources/images/community-analysis-and-feedback_files/figure-docx//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g362974128df_0_30.png){width=100%}
 
 The acknowledgements section is where you give thanks to the people, organizations, and institutions that have supported you in your research. If relevant, include the grant ID # of your funding source. Institutions and organizations that have contributed to your research - but you do not belong to - can be thanked here.
-
 
 ### Part 3 - Proofread and Add Final Touches
 
@@ -270,13 +278,16 @@ You will turn in your poster to be graded as a group in a Canvas Assignment and 
 
 ### Grading Criteria
 
-Your instructor will provide for you a rubric specific to your class. Refer to the rubric as your build your poster to make sure you have all the neccessary components.
+Your instructor will provide for you a rubric specific to your class. 
+Refer to the rubric as your build your poster to make sure you have all the neccessary components.
 
 ### Footnotes
 
 #### Resources
 
+- [Google Doc]
 - [Generic rubric](https://docs.google.com/document/d/13eB1fwHEB1I00JHBUQLZIJsi-iQZYaWaXThPqCTU17g/edit?usp=sharing)
+
 
 #### Contributions and Affiliations
 
@@ -285,7 +296,7 @@ Your instructor will provide for you a rubric specific to your class. Refer to t
 - Frederick Tan, Johns Hopkins University
 - Sayumi York, Notre Dame of Maryland University
 
-Last Revised: June 2025
+Last Revised: July 2025
 
 ## Activity - Share Your Poster
 
@@ -374,9 +385,11 @@ b. To the class
 Last Revised: April 2025
 
 
-# Next Steps
+# Professional Development
 
 Now that you've finished your C-MOOR project, how do you close out your research experience or take it further? In this section we'll explore how to publicize and use your experience to help build your professional career.
+
+![](resources/images/community-analysis-and-feedback_files/figure-docx//1hYKF7Ss3vJ8rrUIH7ByNh1BUlRa2fhsJhq8MXzEowCc_g344ad28629a_0_229.png){width=100%}
 
 ## Lecture - Next Steps
 
@@ -391,7 +404,10 @@ Now that you've finished your C-MOOR project, how do you close out your research
 
 ### Introduction
 
-We’ll wrap up with several next steps including completing feedback to improve the next offering of this course , researching opportunities to do more science, exploring communities where scientists openly share insights, and optionally sharing more work.
+Congratulations on making it to the end of Microbial Mysteries!  Take a moment and reflect on all that you've accomplished during this semester, especially those of you who reported in the Welcome Poll "No experience" with Microbiology, Galaxy, and Scientific Research.  While the "Grad Student Motivation Level" PHD Comics spans years, it likely reflects the ups and downs as you developed and explored your hypothesis, including the thrill of presenting your work to people in our mini-symposium.  The feedback has been great with faculty impressed at what you’ve accomplished, the depth that you understand your projects, and even one scientist who does metagenomics research reporting that they learned a new trick or two!  
+
+
+We’ll wrap up today with several next steps including completing feedback to improve the next offering of this course , researching opportunities to do more science, exploring communities where scientists openly share insights, and optionally sharing more work.
 
 ### Activity 1 – Complete Feedback
 
@@ -400,12 +416,11 @@ We’ll wrap up with several next steps including completing feedback to improve
 #### Instructions
 
 Help us improve this course as we work to grow enrollment to accommodate 32 to 64 students, incorporate graduate TAs and undergraduate course assistants and tutors,  and promote more computational training and research opportunities throughout departmental courses
-
 https://forms.gle/XkqiMERHc2PETmy4A
 
 ### Activity 2 – Research Opportunities
 
-|1. Find one LAB at YOUR INSTITUTION/GEOGRAPHIC AREA that you would work in and explain why.|
+|1. Find one LAB at YOUR INSTITUTION  that you would work in and explain why.|
 |:---|
 | Your text here:|
 <br>
@@ -470,6 +485,8 @@ c. Bluesky: Social media as it should be
 
 1. Upload photos – Especially photo of your group standing in front of your poster
 
+- [https://drive.google.com/drive/folders/1y_GCJl7VIYTS_5y7057u2s58ZCdm_PxM](https://drive.google.com/drive/folders/1y_GCJl7VIYTS_5y7057u2s58ZCdm_PxM)
+
 2. Publicly share poster – If every member of your group is ok sharing your work publicly
 
 - [https://help.c-moor.org/c/look-at-this/8](https://help.c-moor.org/c/look-at-this/8)
@@ -490,13 +507,71 @@ c. Bluesky: Social media as it should be
 - Frederick Tan, Johns Hopkins University
 
 
-## Update your CV
+## Science Talks
+
+Science Talks feature a guest lecturer to showcase their research work, share their scientific journety and engage in Q and A with the students. It is a one of a kind opportunity for students to engage with a scientific scholar and/or expert from across departments, fields, and career stages and explore, broaden or narrow students' scientific interests.
+
+<br>
+
+The two invited speakers for the Microbial Mysteries CURE Spring 2025 at the JHU were:
+
+1. Dr. Karina Gutiérrez-García
+2. Dr. Leah Guthrie
+
+![](resources/images/community-analysis-and-feedback_files/figure-docx//1hYKF7Ss3vJ8rrUIH7ByNh1BUlRa2fhsJhq8MXzEowCc_g344ad28629a_0_263.png){width=100%}
+
+For each speaker, students were asked to prepare by completing the Science Talks Activities.
+
+### Science Talks - Activity 1
+
+*Estimated time: 50 min*
+
+1. Read/Browse the following information about **Dr. Karina Gutiérrez-García**
+
+
+a. Postdoc Spotlight [carnegiescience.edu/news/postdoc-spotlight-karina-gutierrez-garcia](carnegiescience.edu/news/postdoc-spotlight-karina-gutierrez-garcia)
+
+b. “Home sweet home” perspective on study of fruit fly gut microbiome [pubmed.gov/39637006](pubmed.gov/39637006)
+
+c. Abstract for “A conserved bacterial genetic basis for commensal-host specificity” [pubmed.gov/39636981](pubmed.gov/39636981)
+
+d. Abstract for “Gut microbiomes of cycad-feeding insects tolerant to β-methylamino-L-alanine (BMAA) are rich in siderophore biosynthesis [pubmed.gov/37993724](pubmed.gov/37993724)
+
+
+2. Post three questions to the speaker in the Discussion Forum at [https://help.c-moor.org/t/469](https://help.c-moor.org/t/469).
+
+1. Science – What scientific question do you have about Speaker’s research, ranging from basic background questions to possible next steps?
+2. Method – What methods would you like the Speaker insight on, whether computational, genomics, or other exciting technologies?
+3. Career – What advice would you ask the Speaker for regarding how to get started, finding a mentor, etc.?
+
+### Science Talks - Activity 2
+
+*Estimated time: 50 min*
+
+1. Read/Browse the following information about **Dr. Leah Guthrie**
+
+a. Faculty focus [qb3.berkeley.edu/news/faculty-focus-leah-guthrie](qb3.berkeley.edu/news/faculty-focus-leah-guthrie)
+
+b. Abstract for “Impact of a 7-day homogeneous diet on interpersonal variation in human gut microbiomes and metabolomes” 
+[pubmed.gov/35643079](pubmed.gov/35643079)
+
+c. Abstract for “Human microbiome signatures of differential colorectal cancer drug metabolism” [pubmed.gov/29104759](pubmed.gov/29104759)
+
+
+2. Post three questions to the speaker in the Discussion Forum at [https://help.c-moor.org/t/469](https://help.c-moor.org/t/498).
+
+1. Science – What scientific question do you have about Speaker’s research, ranging from basic background questions to possible next steps?
+2. Method – What methods would you like the Speaker insight on, whether computational, genomics, or other exciting technologies?
+3. Career – What advice would you ask the Speaker for regarding how to get started, finding a mentor, etc.?
+
+
+## Create your CV
 
 *Estimated time: 10 min*
 
 Everyone who completes a C-MOOR project can add their experience to their resume or CV! We advise you and your students to do this as soon as possible after the end of class while your research project is still on your mind.
 
-### Resume or CV?
+#### Resume or CV?
 
 You may hear the terms resume and CV being used interchangeably. While both are drawn from the same information, they vary in brevity and focus.
 
@@ -526,6 +601,10 @@ A: As a current student or new graduate, you are not expected to have mastery ov
 
 A: You can, however we suggest being explicit in your experience and add the level at which you feel comfortable with each respective platform. Are you R (Beginner) or R (Proficient)? Can you teach someone else how to do your project? Can you perform your project with novel data? How good are you at troubleshooting? This answer may seem contrary to the previous one, but remember that other people who are listing these platforms in their skills section includes computer/data scientists (majors) and bioinformaticians (majors), so people may assume mastery. Think about it the same way you would a foreign language. Spanish (Beginner) describes a different level of skill than 'just' Spanish. 
 
+
+# C-MOOR Scholars
+
+
 ## C-MOOR Scholars
 
 ![](resources/images/community-analysis-and-feedback_files/figure-docx//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g362a06a915d_2_4.png){width=100%}
@@ -547,6 +626,18 @@ Fill out our [C-MOOR Scholars Interest Form](https://docs.google.com/forms/d/1GJ
   - A drop-in drop-out popular science club
   
 Less formal than a class, more formal than just a gathering of like-minded minds, C-MOOR Scholars provides structure for your growth as a scientist. We are actively looking to recruit new scholars for chapters at our established sites (CCC, JHU, & NDMU); speak with your instructor for more information or reach out to us at the [C-MOOR Academy Discussion Forum](help.c-moor.org) to hear about any remote opportunities we have.
+
+
+### C-MOOR Scholars links
+
+
+Share your interests via C-MOOR Scholars Interest Form and learn how C-MOOR community can support you.
+
+- [https://docs.google.com/forms/d/1GJDpfG28k2utCVVcRXQraE-1coLS_GCX83irUyio9KE/edit](https://docs.google.com/forms/d/1GJDpfG28k2utCVVcRXQraE-1coLS_GCX83irUyio9KE/edit)
+
+Meet the C-MOOR Scholars and learn how you can support them
+
+- [https://www.cloviscollege.edu/alumni-and-community/c-moor/c-moor-scholars.html](https://www.cloviscollege.edu/alumni-and-community/c-moor/c-moor-scholars.html)
 
 ## Pursue further research
 
@@ -594,6 +685,26 @@ This section is primarily geared toward instructors as students will be able to 
 **What is BioDIGS?**: [BioDIGS](biodigs.org) is a project from the Genomic Data Science Community Network (GDSCN), which aims to characterize the microbiome of soil throughout sites in the US while connecting scientists to research. 
 
 **What makes BioDIGS different?:** Soil is hypothesized to be the most diverse system on our planet, and BioDIGS is gathering sequence data and matching environmental data to elucidate the connection of soil microbes to abiotic variables and human health. Students at participating sites can take the entire project from soil sampling all the way through computational analysis. Curricula and more information on how to get a soil sampling kit are available on the BioDIGS website.
+
+
+# Online Community
+
+The genomic data science community is a remarkably open community that continually strives to increase opportunitites and broaden access to the scientific enterprise (e.g. [GDSCN 2022](https://pubmed.gov/35858750){target="_blank"}).
+There are many opportunities to interact online with scientists that share a common research question, career stage, or even favorite tool!
+Below is a sampling of some discussion forums that you may find useful:
+
+- [help.c-moor.org](https://help.c-moor.org){target="_blank"} for help with and example miniCUREs
+- [help.galaxyproject.org](https://help.galaxyproject.org){target="_blank"} for all things Galaxy
+- [support.bioconductor.org](https://support.bioconductor.org){target="_blank"} for all things R/Bioconductor
+- [help.anvilproject.org](https://help.anvilproject.org){target="_blank"} for interactions with the GDSCN BioDIGS consortium [https://biodigs.org/#home](https://biodigs.org/#home)
+
+![](resources/images/community-analysis-and-feedback_files/figure-docx//1fH9s5OLcRF5meZtFWTJe89RFvJSh125kdjhdqp5smqA_g302b08c5e6e_0_16.png)
+
+![](resources/images/community-analysis-and-feedback_files/figure-docx//1fH9s5OLcRF5meZtFWTJe89RFvJSh125kdjhdqp5smqA_g302b08c5e6e_0_5.png)
+
+![](resources/images/community-analysis-and-feedback_files/figure-docx//1fH9s5OLcRF5meZtFWTJe89RFvJSh125kdjhdqp5smqA_g302b08c5e6e_0_22.png)
+
+![](resources/images/community-analysis-and-feedback_files/figure-docx//1fH9s5OLcRF5meZtFWTJe89RFvJSh125kdjhdqp5smqA_g302b08c5e6e_0_12.png)
 
 
 
