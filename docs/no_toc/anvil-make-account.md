@@ -1,7 +1,7 @@
 
 ## Sign up for an AnVIL account
 
-<img src="anvil-make-account_files/figure-html//1uwlG7uaTOnItdpd4Ll6nNQiBJKBivsvR-erupicAwJM_g3709d9ac459_0_250.png" alt="Settings for cloning a workspace on AnVIL. Adjust the fields shown above." width="100%" style="display: block; margin: auto;" />
+<img src="anvil-make-account_files/figure-html//1uwlG7uaTOnItdpd4Ll6nNQiBJKBivsvR-erupicAwJM_g3709d9ac459_0_250.png" width="100%" style="display: block; margin: auto;" />
 
 #### Purpose
 
@@ -26,11 +26,3 @@ Follow the written steps below or refer to the [slides](https://docs.google.com/
 1. If you are a student, share the email you used to sign up for AnVIL with your instructor following their instructions. If you are an instructor on a C-MOOR billing project, share the email you used to sign up with someone from C-MOOR. 
 
 **Until your account is associated with a billing project you will be unable to use computational resources on AnVIL.** 
-
-#### Footnotes
-
-#### Contributions and Affiliations
-
-- Sayumi York, Notre Dame University of Maryland
-
-Last Revised: July 24, 2025

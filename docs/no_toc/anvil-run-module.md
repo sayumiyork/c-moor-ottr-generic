@@ -88,10 +88,3 @@ It will take some time for the RStudio Environment to be created. You can keep t
 
 <img src="anvil-run-module_files/figure-html//11wb3b7i9SwrDX_WO3mWNAycd2mbY4Moy8SuT0X3XvXo_g3709d9ac459_0_299.png" alt="The status of the RStudio Environment." width="100%" style="display: block; margin: auto;" />
 
-#### Footnotes
-
-#### Contributions and Affiliations
-
-- Sayumi York, Notre Dame University of Maryland
-
-Last Revised: July 24, 2025
