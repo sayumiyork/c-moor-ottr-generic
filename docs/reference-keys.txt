@@ -151,3 +151,9 @@ pursue-further-research
 research-opportunities-at-your-institution
 find-a-research-lab-to-join
 biodigs
+why-data-science
+for-new-instructors
+what-is-a-cure
+how-c-moor-supports-you
+new-instructor-to-do-list
+cloud-platforms
