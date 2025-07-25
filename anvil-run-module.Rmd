@@ -106,10 +106,3 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/11wb3b7i9SwrDX_WO
 ottrpal::include_slide("https://docs.google.com/presentation/d/11wb3b7i9SwrDX_WO3mWNAycd2mbY4Moy8SuT0X3XvXo/edit#slide=id.g3709d9ac459_0_299")
 ```
 
-#### Footnotes
-
-#### Contributions and Affiliations
-
-- Sayumi York, Notre Dame University of Maryland
-
-Last Revised: July 24, 2025

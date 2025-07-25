@@ -37,9 +37,6 @@ This video ([video](https://link.c-moor.org/video-sciserver-create-learnr-contai
 ottrpal::include_slide("https://docs.google.com/presentation/d/1JxgfeibZU1HssPKzz_kItZImDA23ZNq1m2zpQDCx3Q4/edit?slide=id.g344f6de1efa_0_40#slide=id.g344f6de1efa_0_40")
 ```
 
-https://docs.google.com/presentation/d/1JxgfeibZU1HssPKzz_kItZImDA23ZNq1m2zpQDCx3Q4/edit?slide=id.g344f6de1efa_0_40#slide=id.g344f6de1efa_0_40
-https://docs.google.com/presentation/d/1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs/edit?slide=id.g3633c08f49f_0_21#slide=id.g3633c08f49f_0_21
-
 a. If instead you see an error message, you most likely forgot to check the box next to “C-MOOR Data” when you created the container.
   
 ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "The error message you will see if you did not choose the correct options when setting up your container."}
