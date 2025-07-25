@@ -4,7 +4,7 @@ what-is-c-moor
 why-data-science
 learning-goals-1
 for-new-instructors
-what-is-a-cure
+course-based-undergraduate-research-experiences
 how-c-moor-supports-you
 new-instructor-to-do-list
 cloud-platforms
