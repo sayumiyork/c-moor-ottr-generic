@@ -92,6 +92,7 @@ pursue-further-research
 research-opportunities-at-your-institution
 find-a-research-lab-to-join
 biodigs
+<<<<<<< Updated upstream
 sciserver-instructor-prep
 share-your-username-with-someone-from-c-moor
 accept-invitation-from-c-moor-to-join-a-group
@@ -153,3 +154,9 @@ contributions-and-affiliations-7
 footnotes-9
 footnotes-10
 what-is-a-workspace
+=======
+why-data-science
+what-is-a-cure
+how-c-moor-supports-you
+the-instructor-to-do-list
+>>>>>>> Stashed changes
