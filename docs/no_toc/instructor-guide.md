@@ -7,11 +7,11 @@
 
 Welcome to new and seasoned instructors alike! We are excited to have you use a C-MOOR module in your class. This section of our OTTR book is specifically for instructors and will help you prepare for teaching a C-MOOR offering as a part of your class. 
 
-## Course-based undergraduate research experiences
+### Course-based undergraduate research experiences
 
 A **course-based undergraduate research experience (CURE)** is a high impact practice (HIP) where students learn through authentic research. In addition to the standard concepts of the material and the technical skills required to complete lab exercises students gain critical thinking skills troubleshooting their research projects. They don't just learn about science; they practice it!
 
-## How C-MOOR supports you
+### How C-MOOR supports you
 
 Our curriculum is designed to be accessible for anyone to teach and aims to remove many of the barriers that prevent instructors from trying computational biology methods.
 
@@ -20,7 +20,7 @@ Our curriculum is designed to be accessible for anyone to teach and aims to remo
 - **We designed our miniCUREs to be modular to fit into your course**: Our miniCURE curricula are designed to be compact, with just 6 main sessions followed by project work. We've taught our RNA-seq miniCURE in pre-established classes, such as introductory biology. You don't have to design your entire course around them and the modules fit easily into your lessons about gene expression and microbiology.
 
 
-## New instructor to-do list
+### New instructor to-do list
 
 If you haven't taught a C-MOOR curriculum in the past, here's a list of tasks you should do, ideally before the semester begins:
 
