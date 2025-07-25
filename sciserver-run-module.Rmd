@@ -31,15 +31,16 @@ This video ([video](https://link.c-moor.org/video-sciserver-create-learnr-contai
     a. “Image” should be “C-MOOR LearnR”
 1. Start your C-MOOR LearnR container by clicking on its name (whatever name you chose when you created it).  This will open in a new tab.
     a. You should see a list of tutorials, organized by topic.
-    
+
+
 ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "The list of C-MOOR tutorials - yours may be slightly different."}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs/edit#slide=id.g3632cdae791_0_371")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1JxgfeibZU1HssPKzz_kItZImDA23ZNq1m2zpQDCx3Q4/edit?slide=id.g344f6de1efa_0_40#slide=id.g344f6de1efa_0_40")
 ```
 
 a. If instead you see an error message, you most likely forgot to check the box next to “C-MOOR Data” when you created the container.
   
 ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "The error message you will see if you did not choose the correct options when setting up your container."}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs/edit#slide=id.g3632cdae791_0_267")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1JxgfeibZU1HssPKzz_kItZImDA23ZNq1m2zpQDCx3Q4/edit?slide=id.g344f6de1efa_0_50#slide=id.g344f6de1efa_0_50")
 ```
 
 a. If you see something else, you may have picked the wrong “Compute Image” from the drop-down menu.
@@ -72,7 +73,7 @@ To delete a container:
 1. Click on the red “X” in the last column.
 
 ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Deleting a SciServer container."}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs/edit#slide=id.g3632cdae791_0_375")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1JxgfeibZU1HssPKzz_kItZImDA23ZNq1m2zpQDCx3Q4/edit?slide=id.g344f6de1efa_0_45#slide=id.g344f6de1efa_0_45")
 ```
 
 

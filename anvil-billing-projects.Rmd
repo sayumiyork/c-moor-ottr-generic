@@ -70,10 +70,4 @@ The best way to conserve costs is to <mark>make sure that students close out the
 
 For more information on how to control computing charges, please see the Terra guide: [How to cut off GCP charges](https://support.terra.bio/hc/en-us/articles/360042023952-Runaway-costs-How-to-cut-off-GCP-charges). 
 
-#### Footnotes
 
-#### Contributions and Affiliations
-
-- Sayumi York, Notre Dame University of Maryland
-
-Last Revised: July 24, 2025

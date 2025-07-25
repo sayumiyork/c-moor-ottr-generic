@@ -151,3 +151,14 @@ pursue-further-research
 research-opportunities-at-your-institution
 find-a-research-lab-to-join
 biodigs
+why-data-science
+for-new-instructors
+what-is-a-cure
+how-c-moor-supports-you
+new-instructor-to-do-list
+cloud-platforms
+about-sciserver
+r-fig.aligncenter-out.width100-echo-false-fig.alt-homepage-for-sciserver-the-platform-where-your-class-will-run-your-analyses-ottrpalinclude_slidehttpsdocs.google.compresentationd1q_u1qceqpwknpoug4gcun_-w7ytpctyfwcf5cge5bameditslideid.g344f6de1efa_0_5
+create-a-sciserver-account
+accept-the-invitation-to-join-a-sciserver-group
+about-anvil

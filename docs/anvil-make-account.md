@@ -1,7 +1,7 @@
 
 ## Sign up for an AnVIL account
 
-![](anvil-make-account_files/figure-docx//1uwlG7uaTOnItdpd4Ll6nNQiBJKBivsvR-erupicAwJM_g3709d9ac459_0_250.png){width=100%}
+<img src="anvil-make-account_files/figure-html//1uwlG7uaTOnItdpd4Ll6nNQiBJKBivsvR-erupicAwJM_g3709d9ac459_0_250.png" width="100%" style="display: block; margin: auto;" />
 
 #### Purpose
 
