@@ -1,8 +1,8 @@
 
 ## Sign up for an AnVIL account
 
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Settings for cloning a workspace on AnVIL. Adjust the fields shown above."}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1uwlG7uaTOnItdpd4Ll6nNQiBJKBivsvR-erupicAwJM/edit#slide=id.g3709d9ac459_0_250")
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= ""}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1uwlG7uaTOnItdpd4Ll6nNQiBJKBivsvR-erupicAwJM/edit?slide=id.g3709d9ac459_0_250#slide=id.g3709d9ac459_0_250")
 ```
 
 #### Purpose

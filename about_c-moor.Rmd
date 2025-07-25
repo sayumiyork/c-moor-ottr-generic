@@ -5,7 +5,7 @@
 
 C-MOOR is a project to invite students to join the data science revolution and be part of the next generation of data scientists. This project provides online materials to help students and instructors incorporate authentic research experiences in lower division courses. 
 
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Settings for cloning a workspace on AnVIL. Adjust the fields shown above."}
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= ""}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs/edit#slide=id.g3636f786a65_0_164")
 ```
 

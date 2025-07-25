@@ -12,7 +12,3 @@ AnVIL (The Genomic Data Science **An**alysis, **V**isualization, and **I**nforma
 
 In this section, we will set up our accounts on AnVIL and go through the entire lifecycle of an RStudio environment from creation to deletion. You will repeat this process throughout the semester; feel free to refer back to this section if you need a refresher on how to use AnVIL.
 
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Homepage for AnVIL, the platform where your class will run your analyses"}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs/edit#slide=id.g3632cdae791_0_385")
-```
-
