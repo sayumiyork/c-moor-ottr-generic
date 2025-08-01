@@ -1,30 +1,31 @@
 url	chapt_title	img_path
 https://sayumiyork.github.io/c-moor-ottr-generic/index.html	About	resources/chapt_screen_images/index.png
 https://sayumiyork.github.io/c-moor-ottr-generic/c-moor-overview.html	1 C-MOOR Overview	resources/chapt_screen_images/c-moor-overview.png
-https://sayumiyork.github.io/c-moor-ottr-generic/for-new-instructors.html	2 For new instructors	resources/chapt_screen_images/for-new-instructors.png
-https://sayumiyork.github.io/c-moor-ottr-generic/cloud-platforms.html	3 Cloud platforms	resources/chapt_screen_images/cloud-platforms.png
-https://sayumiyork.github.io/c-moor-ottr-generic/sciserver.html	4 SciServer	resources/chapt_screen_images/sciserver.png
-https://sayumiyork.github.io/c-moor-ottr-generic/about-sciserver.html	4.1 About SciServer	resources/chapt_screen_images/about-sciserver.png
-https://sayumiyork.github.io/c-moor-ottr-generic/setup-your-sciserver-account.html	4.2 Setup your SciServer account	resources/chapt_screen_images/setup-your-sciserver-account.png
-https://sayumiyork.github.io/c-moor-ottr-generic/running-modules-on-sciserver.html	4.3 Running modules on SciServer	resources/chapt_screen_images/running-modules-on-sciserver.png
-https://sayumiyork.github.io/c-moor-ottr-generic/anvil.html	5 AnVIL	resources/chapt_screen_images/anvil.png
-https://sayumiyork.github.io/c-moor-ottr-generic/about-anvil.html	5.1 About AnVIL	resources/chapt_screen_images/about-anvil.png
-https://sayumiyork.github.io/c-moor-ottr-generic/sign-up-for-an-anvil-account.html	5.2 Sign up for an AnVIL account	resources/chapt_screen_images/sign-up-for-an-anvil-account.png
-https://sayumiyork.github.io/c-moor-ottr-generic/set-up-billing-in-anvil.html	5.3 Set up billing in AnVIL	resources/chapt_screen_images/set-up-billing-in-anvil.png
-https://sayumiyork.github.io/c-moor-ottr-generic/running-a-module-on-anvil.html	5.4 Running a module on AnVIL	resources/chapt_screen_images/running-a-module-on-anvil.png
-https://sayumiyork.github.io/c-moor-ottr-generic/scientific-posters.html	6 Scientific Posters	resources/chapt_screen_images/scientific-posters.png
-https://sayumiyork.github.io/c-moor-ottr-generic/lecture---scientific-posters.html	6.1 Lecture - Scientific Posters	resources/chapt_screen_images/lecture---scientific-posters.png
-https://sayumiyork.github.io/c-moor-ottr-generic/activity---scientific-posters.html	6.2 Activity - Scientific Posters	resources/chapt_screen_images/activity---scientific-posters.png
-https://sayumiyork.github.io/c-moor-ottr-generic/making-group-poster.html	6.3 Making Group Poster	resources/chapt_screen_images/making-group-poster.png
-https://sayumiyork.github.io/c-moor-ottr-generic/activity---share-your-poster.html	6.4 Activity - Share Your Poster	resources/chapt_screen_images/activity---share-your-poster.png
-https://sayumiyork.github.io/c-moor-ottr-generic/professional-development.html	7 Professional Development	resources/chapt_screen_images/professional-development.png
-https://sayumiyork.github.io/c-moor-ottr-generic/lecture---next-steps.html	7.1 Lecture - Next Steps	resources/chapt_screen_images/lecture---next-steps.png
-https://sayumiyork.github.io/c-moor-ottr-generic/activity---next-steps.html	7.2 Activity - Next Steps	resources/chapt_screen_images/activity---next-steps.png
-https://sayumiyork.github.io/c-moor-ottr-generic/science-talks.html	7.3 Science Talks	resources/chapt_screen_images/science-talks.png
-https://sayumiyork.github.io/c-moor-ottr-generic/create-your-cv.html	7.4 Create your CV	resources/chapt_screen_images/create-your-cv.png
-https://sayumiyork.github.io/c-moor-ottr-generic/c-moor-scholars.html	8 C-MOOR Scholars	resources/chapt_screen_images/c-moor-scholars.png
-https://sayumiyork.github.io/c-moor-ottr-generic/c-moor-scholars-1.html	8.1 C-MOOR Scholars	resources/chapt_screen_images/c-moor-scholars-1.png
-https://sayumiyork.github.io/c-moor-ottr-generic/pursue-further-research.html	8.2 Pursue further research	resources/chapt_screen_images/pursue-further-research.png
-https://sayumiyork.github.io/c-moor-ottr-generic/biodigs.html	8.3 BioDIGS	resources/chapt_screen_images/biodigs.png
-https://sayumiyork.github.io/c-moor-ottr-generic/online-community.html	9 Online Community	resources/chapt_screen_images/online-community.png
+https://sayumiyork.github.io/c-moor-ottr-generic/how-to-use-a-c-moor-curriculum.html	2 How to use a C-MOOR curriculum	resources/chapt_screen_images/how-to-use-a-c-moor-curriculum.png
+https://sayumiyork.github.io/c-moor-ottr-generic/for-new-instructors.html	3 For new instructors	resources/chapt_screen_images/for-new-instructors.png
+https://sayumiyork.github.io/c-moor-ottr-generic/cloud-platforms.html	4 Cloud platforms	resources/chapt_screen_images/cloud-platforms.png
+https://sayumiyork.github.io/c-moor-ottr-generic/sciserver.html	5 SciServer	resources/chapt_screen_images/sciserver.png
+https://sayumiyork.github.io/c-moor-ottr-generic/about-sciserver.html	5.1 About SciServer	resources/chapt_screen_images/about-sciserver.png
+https://sayumiyork.github.io/c-moor-ottr-generic/setup-your-sciserver-account.html	5.2 Setup your SciServer account	resources/chapt_screen_images/setup-your-sciserver-account.png
+https://sayumiyork.github.io/c-moor-ottr-generic/running-modules-on-sciserver.html	5.3 Running modules on SciServer	resources/chapt_screen_images/running-modules-on-sciserver.png
+https://sayumiyork.github.io/c-moor-ottr-generic/anvil.html	6 AnVIL	resources/chapt_screen_images/anvil.png
+https://sayumiyork.github.io/c-moor-ottr-generic/about-anvil.html	6.1 About AnVIL	resources/chapt_screen_images/about-anvil.png
+https://sayumiyork.github.io/c-moor-ottr-generic/sign-up-for-an-anvil-account.html	6.2 Sign up for an AnVIL account	resources/chapt_screen_images/sign-up-for-an-anvil-account.png
+https://sayumiyork.github.io/c-moor-ottr-generic/set-up-billing-in-anvil.html	6.3 Set up billing in AnVIL	resources/chapt_screen_images/set-up-billing-in-anvil.png
+https://sayumiyork.github.io/c-moor-ottr-generic/running-a-module-on-anvil.html	6.4 Running a module on AnVIL	resources/chapt_screen_images/running-a-module-on-anvil.png
+https://sayumiyork.github.io/c-moor-ottr-generic/scientific-posters.html	7 Scientific Posters	resources/chapt_screen_images/scientific-posters.png
+https://sayumiyork.github.io/c-moor-ottr-generic/lecture---scientific-posters.html	7.1 Lecture - Scientific Posters	resources/chapt_screen_images/lecture---scientific-posters.png
+https://sayumiyork.github.io/c-moor-ottr-generic/activity---scientific-posters.html	7.2 Activity - Scientific Posters	resources/chapt_screen_images/activity---scientific-posters.png
+https://sayumiyork.github.io/c-moor-ottr-generic/making-group-poster.html	7.3 Making Group Poster	resources/chapt_screen_images/making-group-poster.png
+https://sayumiyork.github.io/c-moor-ottr-generic/activity---share-your-poster.html	7.4 Activity - Share Your Poster	resources/chapt_screen_images/activity---share-your-poster.png
+https://sayumiyork.github.io/c-moor-ottr-generic/professional-development.html	8 Professional Development	resources/chapt_screen_images/professional-development.png
+https://sayumiyork.github.io/c-moor-ottr-generic/lecture---next-steps.html	8.1 Lecture - Next Steps	resources/chapt_screen_images/lecture---next-steps.png
+https://sayumiyork.github.io/c-moor-ottr-generic/activity---next-steps.html	8.2 Activity - Next Steps	resources/chapt_screen_images/activity---next-steps.png
+https://sayumiyork.github.io/c-moor-ottr-generic/science-talks.html	8.3 Science Talks	resources/chapt_screen_images/science-talks.png
+https://sayumiyork.github.io/c-moor-ottr-generic/create-your-cv.html	8.4 Create your CV	resources/chapt_screen_images/create-your-cv.png
+https://sayumiyork.github.io/c-moor-ottr-generic/c-moor-scholars.html	9 C-MOOR Scholars	resources/chapt_screen_images/c-moor-scholars.png
+https://sayumiyork.github.io/c-moor-ottr-generic/c-moor-scholars-1.html	9.1 C-MOOR Scholars	resources/chapt_screen_images/c-moor-scholars-1.png
+https://sayumiyork.github.io/c-moor-ottr-generic/pursue-further-research.html	9.2 Pursue further research	resources/chapt_screen_images/pursue-further-research.png
+https://sayumiyork.github.io/c-moor-ottr-generic/biodigs.html	9.3 BioDIGS	resources/chapt_screen_images/biodigs.png
+https://sayumiyork.github.io/c-moor-ottr-generic/online-community.html	10 Online Community	resources/chapt_screen_images/online-community.png
 https://sayumiyork.github.io/c-moor-ottr-generic/references-1.html	References	resources/chapt_screen_images/references-1.png
