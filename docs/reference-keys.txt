@@ -107,3 +107,8 @@ research-opportunities-at-your-institution
 find-a-research-lab-to-join
 biodigs
 online-community
+how-to-use-this-book
+ottr-books
+interactive-learnr-modules-on-the-cloud
+related-resources
+example-lesson-how-to

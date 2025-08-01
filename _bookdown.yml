@@ -3,6 +3,7 @@ chapter_name: "Chapter "
 repo: https://github.com/jhudsl/OTTR_Template/
 rmd_files: ["index.Rmd",
             "about-c-moor.Rmd",
+            "how-to-use-this-book.Rmd",
             "instructor-guide.Rmd",
             "cloud-platforms.Rmd",
             "sciserver-about.Rmd",
