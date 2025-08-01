@@ -44,3 +44,5 @@ If you haven't taught a C-MOOR curriculum in the past, here's a list of tasks yo
 
 6. **Have students create an account on your chosen cloud platform and provide the neccessary information to you:** Do this well in advance of the first day you're using the C-MOOR curriculum to avoid technical issues on the day of (ex. students without Google associated email addresses on AnVIL, students who have unknown errors logging into SciServer). You will need to collect the students' email addresses (AnVIL) or their usernames (SciServer). We recommend using tools in your LMS or a Google form to expedite this process.
 
+
+
