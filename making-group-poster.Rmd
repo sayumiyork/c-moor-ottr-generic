@@ -155,12 +155,12 @@ Many scientists choose to write the abstract last, after they fully understand t
 ottrpal::include_slide("https://docs.google.com/presentation/d/1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs/edit#slide=id.g362974128df_0_18")
 ```
 
-Introductions typically appears immediately after the Abstract section, and while abstract is very brief and consise, Introduction provides more context and background information to your research. 
-Indeed, the main goal of the Introduction is to **clearly elaborate** on relevant background information and provide context for research gap and hypothesis.
+An introduction typically appears immediately after the Abstract section, and while abstract is very brief and consise, Introduction provides more context and background information to your research. 
+Indeed, the main goal of the Introduction is to **clearly elaborate on relevant background information and provide context for research gap and hypothesis**.
 
 ***Overall, the Introduction is longer than the Abstract, heavier on providing research context and background, and leaner on result summary and conclusions.***.
 
-Sometimes, you will se an Introduction section used instead of the Abstract + Introduction sections, in which case, the Introduction will contain both, abstract information plus additional background information, such as this published PacBio's  abstract on 'Genome-resolved metagenome assembly of human oral microbiome using highly accurate long-read sequencing'. 
+- Sometimes, you will se an Introduction section used instead of the Abstract + Introduction sections, in which case, the Introduction will contain both, abstract information plus additional background information, such as this published PacBio's  abstract on 'Genome-resolved metagenome assembly of human oral microbiome using highly accurate long-read sequencing'. 
 
 ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Image test"}
 
