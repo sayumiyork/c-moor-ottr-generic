@@ -1,0 +1,549 @@
+# (PART\*) COMMUNITY ANALYSIS AND FEEDBACK {-}
+
+```{r, include = FALSE}
+ottrpal::set_knitr_image_path()
+```
+
+# Scientific Posters
+
+In this section we will go over how to create a scientific poster. We chose a poster as our final deliverable in C-MOOR because they:
+
+
+- **Facilitate participation in research symposiums**: Students can use their poster to apply to present at research symposiums or conferences with minimal additional effort beyond what they do in class. If your institution does not have a research day, consider starting one using these posters as a foundation as we did at Clovis Community College! Your school's library is another great point of contact in getting a poster session or research day set up. Some of the events students have participated in using their C-MOOR projects include:
+
+  - The Clovis Community College Research Day
+  - The Notre Dame of Maryland University Research Day
+  - The GRADS-4C Conference (2025)
+
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Image test"}
+
+ottrpal::include_slide("https://docs.google.com/presentation/d/1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs/edit#slide=id.g362974128df_0_0")
+
+```
+
+- **Serve as a physical representation of student achievement**: If printed, once finished with the class, students can choose to take their poster with them or leave it with the class to be hung up around the classroom or in the hallways. This gives their research project more visibility, serves as an advertisement for other students who might be interested in taking the class, and showcases what students have accomplished. 
+
+
+- **Can easily be shared digitally**: A presentation can't be repeated twice without a recording, and each recording can take up a lot of digital storage. A poster on the other hand, is a great compressed product that can be posted on a student's (or the institution's) social media and help get their work seen by others. Posters are even small enough that they can be attached to an email and sent to prospective supervisors and collaborators interested in a quick summary of their work. See our [Look at This!](https://help.c-moor.org/c/look-at-this/) category on the C-MOOR Academy Discussion Forum to see all the posters students have created and shared so far!
+
+- **Posters can be used to measure student achievement and understanding**: We have previously used these posters to evaluate student learning, even years after students have left the classroom. Check out our [poster on posters!](https://drive.google.com/file/d/1kK6FBBLbHiAAsTUgxwzHRlK1qCo__eCy/view?usp=sharing)
+
+
+## Lecture - Scientific Posters
+
+*Estimated time: ---*
+
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Image test"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1-orSi8DpN22hMt9-6p_rHZnte1YXXLe-a132HDSyd0U/edit?slide=id.g35f391192_00#slide=id.g35f391192_00")
+```
+
+[Scientific Posters](https://docs.google.com/presentation/d/1-orSi8DpN22hMt9-6p_rHZnte1YXXLe-a132HDSyd0U/edit?usp=sharing)
+
+## Activity - Scientific Posters
+
+### Activity
+
+*Estimated time: ---*
+
+#### Instructions
+
+1. Review **[Presentations Guidelines for Posters](https://ur.umbc.edu/urcad/resources/posters-guidelines)**
+
+2. Skim three posters from among the following (must be Biology if from UMBC Posters)
+
+- **[Look at This! Category on the Academy Discussion Forum](https://help.c-moor.org/c/look-at-this/8)**
+
+- **[UMBC Biology Posters](https://ur.umbc.edu/poster-presentation-examples)**
+
+- **[The example PacBio Poster](https://www.pacb.com/wp-content/uploads/PAG-Portik.pdf)**
+
+3. Pick one poster and address the following points.
+
+- **Notice** – What about this poster most interests you?
+
+- **Wonder** – Two or three questions you would ask the authors.
+
+- **Support** – Two or three suggestions on how the poster could be improved.
+
+4. Post your answers by replying to the “Project Work: Scientific Posters” topic in the Discussion Forum
+
+## Making a group poster 
+
+### Preparing to make a poster
+
+An important part of scientific research is communicating your findings to the broader community.  A poster is a powerful visual way to communicate new and exciting findings, share ideas, and get feedback on your research. No wonder Poster sessions are an integral part of any conference or symposium! Throughout the research project, students will work with their groups to put together a
+scientific research poster.
+ 
+
+### Part 1 - Choose a Template
+*Estimated time: 5 minutes*
+
+1. With your group, open a suggested [poster template](https://docs.google.com/presentation/d/1chz02nzYklAEjOtHrPsJZccGy1sFUZvqdlfcUyfj3I4/edit?usp=sharing) to use for your poster. 
+1. Discuss with your group how you will divide up the work and exchange important information (e.g. phone numbers, email). Consider the following sections: 
+
+- Abstract/Introduction
+- Methods
+- Results
+- Conclusions/Discussion
+- References 
+- Acknowledgments
+
+Notice that these posters are sized at 36 x 42 inches, but there are many other commonly used sizes. Refer to your instructor on what poster size to use; not every poster will fit every stand when printed (if applicable). Also note that the posters in this slidedeck come in two-column, three-column, and mixed formats. Think about your figures and tables and select a format that makes the most sense for them. 
+
+There are also some example posters in the last two slides to reference as we examine the anatomy of a research poster further in the next part.
+
+
+### Part 2 - Make an Academic Research Poster
+
+*Estimated time: ---*
+
+Complete the following components of your research poster with your group. You might not do them in this order, but these are the components you are being graded on. For more details on each of these sections and their role in a scientific paper, see the Scientific Literature Lab. 
+
+<mark>Request your instructor share their rubric for scoring your poster to use as a guide for assembling your poster. Not every poster will contain all sections</mark>.
+
+#### The header: title, authors, and affiliations
+
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Image test"}
+
+ottrpal::include_slide("https://docs.google.com/presentation/d/1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs/edit#slide=id.g362974128df_0_11")
+
+```
+
+Since you completed this work as a team of scientists, all of your team members are considered authors. List your team members in alphabetical order. The author’s affiliation is the university, college, research institution, or company that the work was conducted at.  
+
+- An example affiliation for Clovis Community College would be: “Department of Biology, Clovis Community College, California, United States.” 
+- If multiple institutions exist, you will need to use superscript to denote who has what affiliation (see the example poster).
+
+Include the C-MOOR logo, the logo of your institution(s), and the most immediately relevant funding source (if applicable) in the header.
+
+<!-- NOTE: &nbsp; creates a space in Markdown. In this instance, adding extra spaces after the checkbox didn't seem to work. -->
+
+:::{.attention_box_clipboard}
+:::{.attention_header_box_clipboard}
+:::{.attention_title}
+##### **Check your header!**
+:::
+:::
+::: {.attention_content}
+- [ ] &nbsp;All authors are listed 
+- [ ] &nbsp;All authors’ home institutions are referenced 
+- [ ] &nbsp;The title of the poster is specific to the research project (ex. The genes, model organism, taxa, disease state central to the research question)
+- [ ] &nbsp;The title of the poster describes the main result of your research 
+:::
+:::
+
+#### Abstract
+
+C-MOOR Abstract examples:
+
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Image test"}
+
+ottrpal::include_slide("https://docs.google.com/presentation/d/1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs/edit#slide=id.g36d8202a6d3_0_0")
+
+```
+
+An abstract is a concise summary of your work. An effective abstract will be well designed and communicated, and will inform the reader of the relevant background to the research, scientific hypothesis being tested, the purpose of the study, the main methods, and the most important results and conclusions.  
+
+Abstract can be difficult to write because it combines all research pieces and requires effective and consice communication of those sections.Many scientists choose to write the abstract last, after they fully understand the conclusions and implications of their work. 
+
+To get a better idea of what an abstract looks like beyond this guide, we suggest looking at some of the research papers you've used as references; the first page of any published research study contains an abstract we can skim to find out if the rest of the paper is worth reading. Keep this in mind as you write your abstract. It should do the same thing for people walking past your poster!
+
+Your abstract should do the following:
+
+**1. Summarize relevant background information such as:** 
+
+> - A problem or question at hand 
+> - Model organism
+> - The gene of interest and its function 
+> - The relevant phenotypes (e.g. disease-state) 
+> - The known connection between genotype and phenotype
+> - Relevant biological processes
+
+
+**2. State the purpose, hypothesis, aims, and/or objectives of the research.**
+
+> - e.g. Our hypothesis is that the healthy gut microbiome has more microbial diversity than the gut of an individual with a celiac disease.`
+> - e.g. We hypothesize that maternal antibiotic treatment correlates with higher antibicrobial resistance in infant microbiome.`
+
+
+**3. Summarize methodology you used in your research.**
+
+> - e.g. Using Galaxy we analyzed the genomic diversity of the gut microbiome and compared fecal samples between individuals with Celiac Disease (CD) and a control group on a healthy diet without CD.`
+> - e.g. We analyzed a publically available dataset comparing RNA-seq gene expression between the left and right eye in DESeq2.`
+
+
+**4. Summarize the main results of your study, and how they may relate to the hypothesis.**
+
+
+> - e.g. We found that gene X was differentially abundant between the eye and all other tissues, suggesting gene X plays an important role in the eye. This may be important for learning more about eye development and X condition.
+> - e.g. We found an association between age and the presence of Y bacteria, which supports our hypothesis that Y bacteria is involved in the disease state`
+
+
+***Overall, the Abstract is heavy on summary aspect of things, and lean on details aspect of things***.
+
+
+:::{.attention_box_clipboard}
+:::{.attention_header_box_clipboard}
+:::{.attention_title}
+##### **Check your abstract!**
+:::
+:::
+::: {.attention_content}
+- [ ] &nbsp;The appropriate background is given as necessary (1-2+ sentences)
+    - The model organism
+    - The relevant phenotypes (ex. disease-state)
+    - The gene(s) of interest and their functions
+    - The known connection with the phenotype (ex. genes known to be involved in the phenotype or taxa known to be associated with the phenotype)
+    - Relevant biological processes (ex. pathways)
+- [ ] &nbsp;The aim, hypothesis, and/or objectives of the research are stated
+- [ ] &nbsp;A figure is included
+- [ ] &nbsp;A figure legend is included 
+- [ ] &nbsp;A broad overview of the methodology used 
+- [ ] &nbsp;A summary of the main findings of the study is included
+- [ ] &nbsp;The significance of the results toward the aim, hypothesis, and/or objectives of the study is included
+- [ ] &nbsp;In-line citations are included appropriately
+:::
+:::
+
+#### Introduction
+
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Image test"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs/edit#slide=id.g362974128df_0_18")
+```
+
+An introduction typically appears immediately after the abstract section (if both are included), and while the abstract is very brief and concise, the introduction provides more context and background information relevant to your research. Indeed, the main goal of the Introduction is to **clearly elaborate on relevant background information and provide context for research gap and hypothesis**.
+
+**Overall, the Introduction is longer than the Abstract, heavier on providing research context and background, and leaner on result summary and conclusions.**.
+
+Sometimes, you will see an introduction section without an abstract. In this case, the introduction will contain both the information from the abstract in addition to more detailed background information such as  this published PacBio's abstract on 'Genome-resolved metagenome assembly of human oral microbiome using highly accurate long-read sequencing'. 
+
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Image test"}
+
+ottrpal::include_slide("https://docs.google.com/presentation/d/1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs/edit#slide=id.g3732940ff4c_0_0")
+
+```
+
+:::{.attention_box_clipboard}
+:::{.attention_header_box_clipboard}
+:::{.attention_title}
+##### **Check your introduction!**
+:::
+:::
+::: {.attention_content}
+- [ ] &nbsp;The appropriate background is given as necessary (1-2+ sentences)
+    - The model organism
+    - The relevant phenotypes (ex. disease-state)
+    - The gene(s) of interest and their functions
+    - The known connection with the phenotype (ex. genes known to be involved in the phenotype or taxa known to be associated with the phenotype)
+    - Relevant biological processes (ex. pathways)
+- [ ] &nbsp;The aim, hypothesis, and/or objectives of the research are stated
+- [ ] &nbsp;A figure is included
+- [ ] &nbsp;A figure legend is included 
+- [ ] &nbsp;In-line citations are included appropriately
+:::
+:::
+
+
+#### Materials and Methods
+
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Image test"}
+
+ottrpal::include_slide("https://docs.google.com/presentation/d/1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs/edit?slide#id.g3732940ff4c_0_69")
+
+```
+
+The materials and methods section will detail your analysis of the data. Don’t provide any of your results, just the methods. If you did not generate the data yourself from raw samples, you will simply cite the paper that made them instead of detailing their construction. We will also need to list any programs we used and provide credit to their creators.
+
+Some other things you might include would be what type of analysis you decided to do (which parts of the body parts you analyzed, sets of genes, what p-value you used, etc.).
+
+:::{.attention_box_clipboard}
+:::{.attention_header_box_clipboard}
+:::{.attention_title}
+##### **Check your methods!**
+:::
+:::
+::: {.attention_content}
+- [ ] &nbsp;The published study your data originated from is listed
+- [ ] &nbsp;A diagram/figure of workflow and/or experimental design (potentially from published study) is included
+- [ ] &nbsp;All software and/or databases you used (ex. DESeq2, ClustrProfiler, phyloseq, FlyBase, Human Protein Atlas, CellxGene, Galaxy, FastQC, Kraken, etc.) are listed
+- [ ] &nbsp;In-line citations are included for the data source, all R packages, and all databases listed 
+:::
+:::
+
+
+#### Results
+
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Image test"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs/edit#slide=id.g3732940ff4c_0_141")
+```
+
+The results section is where you will detail your data primarily through figures and tables, though *sometimes* written text is included. Begin by creating your tables and figures. There are two parts to each figure and table, the actual body and the legend. Both are necessary.
+
+**Figure body:**
+
+> - Uses a high resolution images, well spaced, and labeled parts and text. 
+> - Place the figures and tables in order of how you want to present them and name them such as **Figure 1, Figure 2, Table 1, Table 2, etc**.
+
+
+**Figure Legend:**
+
+> - Figures have their legends *underneath* them. Tables have their legends also *above* them.
+> - The legend should be in a smaller font than the main text on the poster.
+> - A legend should includes a **figure title in bold**, which is a declarative statement that summarizes findings.
+> - A legend also includes **figure text** which can identify different parts of the figure, discuss in brief the methods necessary to understand figure, and/or notes relevant statistics such as a p-value.
+
+
+**Results text:**
+
+> - Text is not always included
+> - When used, should be bullet pointed text that summarizes the main findings of the figures/tables and references them (Fig 1.).
+
+:::{.attention_box_clipboard}
+:::{.attention_header_box_clipboard}
+:::{.attention_title}
+##### **Check your results!**
+:::
+:::
+::: {.attention_content}
+- [ ] &nbsp;A minimum of 2 figures are included
+- [ ] &nbsp;Legends are included for all figures and tables 
+- [ ] &nbsp;Legends are placed appropriately for each figure/table 
+- [ ] &nbsp;Bullet pointed text describes the main results of the study and references the figures and tables 
+:::
+:::
+
+
+#### Conclusions/Discussion
+
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Image test"}
+
+ottrpal::include_slide("https://docs.google.com/presentation/d/1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs/edit#slide=id.g362974128df_0_52")
+
+```
+
+The discussion section of the paper is your chance to analyze and interpret your results. The discussion section generally addresses the following:
+
+- What do your results mean?
+- How do they fit into the bigger picture?
+- If any experiments did not give expected results, hypothesize why that might have been the case and propose alternate experiments that could confirm or clarify your results.
+- Include at least one sentence of future work that you would do if you had more time or what students in upcoming semesters could do to continue to answer your questions.
+
+
+:::{.attention_box_clipboard}
+:::{.attention_header_box_clipboard}
+:::{.attention_title}
+##### **Check your discussion!**
+:::
+:::
+::: {.attention_content}
+- [ ] &nbsp;The major results of the research are connected to the original aim, hypothesis, and/or objectives of the study
+- [ ] &nbsp;The research is contextualized in the greater scientific literature by drawing on one other published study that supports or contradicts your findings 
+- [ ] &nbsp;An idea for future work that builds on the project is included 
+- [ ] &nbsp;Bullet points or a summary figure are used to keep section clear and concise
+- [ ] &nbsp;In-line citations are included as necessary 
+:::
+:::
+
+
+#### References
+
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Image test"}
+
+ottrpal::include_slide("https://docs.google.com/presentation/d/1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs/edit#slide=id.g362974128df_0_80")
+
+```
+
+All the references that you cite on your poster must be present in a References section including the following sections: Introduction, Methods, and Discussion. To save space on our posters, we will number our references (ex. 1-5) and use the numbers as citations throughout the text of your poster. You may have a lot of references; it is okay to put them in tiny text if you have to in order to make them fit.
+
+There are many different ways to format the reference section. We will make ours in alphabetical order by the first author’s last name. 
+
+**Scientific journals and should use the following general format:**
+
+> Authors (year) “Title.” Journal Name, vol. #, page #s, DOI
+
+**Online article that is also in print:**
+
+> Haussecker D., Huang Y., Lau A., Parameswaran P., Fire A. Z. and M. A. Kay (2010) “Human tRNA-derived small RNAs in the global regulation of RNA silencing.” RNA, Vol. 16, page 637-695,  doi:10.1261/rna.2000810
+
+**Online article only:**
+
+> Marianes, A. and A. C. Spradling (2013) “Physiological and stem cell compartmentalization within the Drosophila midgut.” eLife, doi:10.7554/eLife.00886
+
+
+:::{.attention_box_clipboard}
+:::{.attention_header_box_clipboard}
+:::{.attention_title}
+##### **Check your references!**
+:::
+:::
+::: {.attention_content}
+- [ ] &nbsp;A minimum of 2 primary references are included
+- [ ] &nbsp;All references are from primary literature 
+- [ ] &nbsp;All citations use the same standard format (ex. APA reference format)
+- [ ] &nbsp;All in-line citations from the introduction are included in the reference section 
+- [ ] &nbsp;All in-line citations from the methods are included in the reference section 
+- [ ] &nbsp;All in-line citations from the discussion are included in the reference section 
+:::
+:::
+
+
+#### Acknowledgements
+
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Image test"}
+
+ottrpal::include_slide("https://docs.google.com/presentation/d/1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs/edit#slide=id.g362974128df_0_30")
+
+```
+
+The acknowledgements section is where you give thanks to the people, organizations, and institutions that have supported you in your research. If relevant, include the grant ID # of your funding source. Institutions and organizations that have contributed to your research - but you do not belong to - can be thanked here.
+
+:::{.attention_box_clipboard}
+:::{.attention_header_box_clipboard}
+:::{.attention_title}
+##### **Check your acknowledgements!**
+:::
+:::
+::: {.attention_content}
+- [ ] &nbsp;Thank your research mentors
+- [ ] &nbsp;Thank your classmates for providing peer review and support :)
+- [ ] &nbsp;Thank those who have provided you with technical support
+- [ ] &nbsp;Thank your funding source and list the grant # (if applicable)
+:::
+:::
+
+### Part 3 - Proofread and Add Final Touches
+
+*Estimated time: 30 min to an hour*
+
+1. Each group member should re-read the poster from beginning to end and fix any typos or grammatical errors.
+1. Check the alignment of figures, text boxes, titles, etc.
+1. Add some finishing touches. You can play with the color, the font, add additional images if it’s relevant.
+
+### Part 4 - Canvas Discussion
+
+*Estimated time: 30 min*
+
+You will turn in your poster to be graded as a group in a Canvas Assignment and post it to a Canvas Discussion to be viewed by the class.
+
+1. Convert your poster to a pdf.
+1. Have one member of your group turn in the pdf of your poster to the Graded Canvas Assignment. This assignment is already set up so that if one group member turns it in, it will show as submitted for all students in the group. This is where your instructor will grade you poster as a group.
+1. Have one member of your group post a pdf of your poster in the Canvas C-MOOR Poster Discussion.
+    a. With your poster, introduce your  group members and copy and paste your abstract into the post.
+    a. Insert your pdf into the post and edit the link so that it automatically shows the inline preview. This will make it easier for students to view your poster.
+1. As an individual, read through the other posters from different groups.
+1. Post comments
+
+#### Grading Criteria
+
+Your instructor will provide for you a rubric specific to your class. 
+Refer to the rubric as your build your poster to make sure you have all the neccessary components.
+
+#### Footnotes
+
+**Resources**
+
+- [Google Doc]
+- [Generic rubric](https://docs.google.com/document/d/13eB1fwHEB1I00JHBUQLZIJsi-iQZYaWaXThPqCTU17g/edit?usp=sharing)
+
+**References**
+
+- [Abstract vs. Introduction](https://fourwaves.com/blog/abstract-vs-introduction/)
+- [Preparing and presenting effective research posters] (https://onlinelibrary.wiley.com/doi/10.1111/j.1475-6773.2006.00588.x)
+
+**Contributions and Affiliations**
+
+- Stephanie R. Coffman, Clovis Community College
+- Valeriya Gaysinskaya, Johns Hopkins University
+- Frederick Tan, Johns Hopkins University
+- Sayumi York, Notre Dame of Maryland University
+
+Last Revised: August 2025
+
+
+## Activity - Share Your Poster
+
+### Introduction
+
+It's almost time!  Prepare for your final presentation by thinking about how to describe the great work that you've done this semester in both written and oral form.  Assume that your audience has a basic scientific background but does not know a lot about your particular field.  Provide enough context to give your listener a reason to care about your project and each of the results you will describe.  You have five minutes to get your story across so have a plan and practice.
+
+#### Activity 1 – Share Your Poster
+
+*Estimated time: 20 min*
+
+#### Instructions
+
+1. Download your poster as a .png file
+- [https://drive.google.com/drive/folders/1y_GCJl7VIYTS_5y7057u2s58ZCdm_PxM](https://drive.google.com/drive/folders/1y_GCJl7VIYTS_5y7057u2s58ZCdm_PxM)
+
+2. (One person on behalf of the group) Create a New Topic on the Discussion Forum with the title of your poster as the topic title and your .png file as the contents in either the
+
+a. Look at This! category if every member of your group is ok sharing your work publicly
+[https://help.c-moor.org/c/look-at-this/8](https://help.c-moor.org/c/look-at-this/8)
+
+b. JHU 2025 Spring category if you need to keep your work private
+https://help.c-moor.org/c/jhu-2025-spring/46
+
+3. (Each person in the group) Reply to your topic using your own words with the following two bolded sections using the following template
+
+|  |
+|:--|
+|**What I Did**|
+|<Briefly describe what you did including what you found most interesting>|
+|**How You Can Help**|
+|<Briefly describe how others could continue this analysis especially what you would do next if you were to continue this project>|
+<br>
+
+#### Questions
+
+| 1. Provide URL of your Discussion Forum post |
+|:--|
+||
+<br>
+
+### Activity 2 – Present Your Poster
+
+*Estimated time: 40 min*
+
+#### Instructions
+
+1. Create a plan for a 5 min presentation taking into consideration
+
+a. Who will speak when
+
+b. What each person will cover
+
+2. Practice your presentation
+
+a. In your group
+
+b. To the class
+
+
+#### Questions
+
+| Create a bullet point outline of who will speak what when: |
+|:--|
+|Overview (question, background, hypothesis)|
+|Approach (dataset, general methods) |
+| Results (detailed methods, notable results)|
+|Conclusions (summary, next steps)|
+<br>
+
+### Grading Criteria
+
+- Download as Microsoft Word (.docx) and upload on Canvas
+
+### Footnotes
+
+**Resources**
+
+- [Google Doc]
+
+**Contributions and Affiliations**
+
+- Valeriya Gaysinskaya, Johns Hopkins University
+- Frederick Tan, Johns Hopkins University
+
+Last Revised: April 2025
+
+
