@@ -1,6 +1,8 @@
 
 ## Set up billing in AnVIL
 
+<mark>**This section is only for instructors. Students do NOT have to set up billing**</mark>
+
 <img src="anvil-billing-projects_files/figure-html//1yyH3DZb8Et19galJhNPiUnCevrFRC1acvMG2PB52FCo_g3709d9ac459_0_250.png" alt="Settings for cloning a workspace on AnVIL. Adjust the fields shown above." width="100%" style="display: block; margin: auto;" />
 
 AnVIL will charge you for computing costs; as of the writing of this guide, the cost for running RStudio with the default settings is \$0.06 per hour. RStudio will also cost \$0.01 per hour while paused and not in use. Additionally, the persistent storage the environment comes with (50GB) costs \$2.00 per month if not deleted.
@@ -31,6 +33,7 @@ We suggest each student uses their own workspace and attaching all those workspa
 
 
 ### Adding students to a billing account
+
 Follow the written steps below or refer to the [slides](https://docs.google.com/presentation/d/1yyH3DZb8Et19galJhNPiUnCevrFRC1acvMG2PB52FCo/edit?usp=sharing) or video guide.
 
 <img src="anvil-billing-projects_files/figure-html//1yyH3DZb8Et19galJhNPiUnCevrFRC1acvMG2PB52FCo_g37166799c0e_0_90.png" alt="Settings for cloning a workspace on AnVIL. Adjust the fields shown above." width="100%" style="display: block; margin: auto;" />

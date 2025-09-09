@@ -13,7 +13,7 @@ In this section, we'll quickly cover what each component does, where it's found,
 
 ### OTTR books
 
-<img src="resources/images/how-to-use-this-book_files/figure-html//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g3636f786a65_0_249.png" alt="Starting an RStudio environment from the workspace dashboard." width="100%" style="display: block; margin: auto;" />
+<img src="how-to-use-this-book_files/figure-html//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g3636f786a65_0_249.png" alt="Starting an RStudio environment from the workspace dashboard." width="100%" style="display: block; margin: auto;" />
 
 The OTTR book is essentially a coursebook for that particular curriculum. We have OTTR books for each major curricula and a separate book for our model organisms and biological databases unit. This is where you will find the following:
 
@@ -23,7 +23,7 @@ The OTTR book is essentially a coursebook for that particular curriculum. We hav
 
 ### Interactive learnr modules on the cloud
 
-<img src="resources/images/how-to-use-this-book_files/figure-html//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g37285a4c239_0_1.png" alt="Starting an RStudio environment from the workspace dashboard." width="100%" style="display: block; margin: auto;" />
+<img src="how-to-use-this-book_files/figure-html//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g37285a4c239_0_1.png" alt="Starting an RStudio environment from the workspace dashboard." width="100%" style="display: block; margin: auto;" />
 
 Our learnr modules contain self-paced lessons and all the resources students will need to complete their research projects. Through these modules students will generate plots using interactive code chunks and take non-graded try-as-many-times-as-you-want quizzes to better refine their understanding of how to work with their data and the underlying biological and statistical concepts.
 
@@ -31,7 +31,7 @@ Please see the sections on setting up on a cloud platform for more details on ho
 
 ### Related resources
 
-<img src="resources/images/how-to-use-this-book_files/figure-html//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g37285a4c239_0_82.png" alt="Starting an RStudio environment from the workspace dashboard." width="100%" style="display: block; margin: auto;" />
+<img src="how-to-use-this-book_files/figure-html//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g37285a4c239_0_82.png" alt="Starting an RStudio environment from the workspace dashboard." width="100%" style="display: block; margin: auto;" />
 
 As mentioned above, at the bottom of each section of an OTTR book you can find links to resources such as assignments in Google Doc form. We've formatted these files to be easy for instructors and students to download, modify, and submit at their convenience. We also have guides for students to use as they work on their research projects; we are working to expand the number of guides for students to use across different curricula. 
 
