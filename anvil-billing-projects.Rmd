@@ -37,6 +37,7 @@ We suggest each student uses their own workspace and attaching all those workspa
 
 
 ### Adding students to a billing account
+
 Follow the written steps below or refer to the [slides](https://docs.google.com/presentation/d/1yyH3DZb8Et19galJhNPiUnCevrFRC1acvMG2PB52FCo/edit?usp=sharing) or video guide.
 
 ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Settings for cloning a workspace on AnVIL. Adjust the fields shown above."}
