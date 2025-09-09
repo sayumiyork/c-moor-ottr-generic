@@ -1,6 +1,8 @@
 
 ## Set up billing in AnVIL
 
+<mark>**This section is only for instructors. Students do NOT have to set up billing**</mark>
+
 ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Settings for cloning a workspace on AnVIL. Adjust the fields shown above."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1yyH3DZb8Et19galJhNPiUnCevrFRC1acvMG2PB52FCo/edit#slide=id.g3709d9ac459_0_250")
 ```
