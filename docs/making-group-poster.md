@@ -13,7 +13,7 @@ In this section we will go over how to create a scientific poster. We chose a po
   - The Notre Dame of Maryland University Research Day
   - The GRADS-4C Conference (2025)
 
-![](resources/images/making-group-poster_files/figure-docx//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g362974128df_0_0.png){width=100%}
+![](making-group-poster_files/figure-docx//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g362974128df_0_0.png){width=100%}
 
 - **Serve as a physical representation of student achievement**: If printed, once finished with the class, students can choose to take their poster with them or leave it with the class to be hung up around the classroom or the hallways. This gives their research project more visibility, serves as an advertisement for other students who might be interested in taking the class, and showcases what students have accomplished. 
 
@@ -60,7 +60,7 @@ Complete the following components of your research poster with your group. You m
 
 #### The header: title, authors, and affiliations
 
-![](resources/images/making-group-poster_files/figure-docx//1hYKF7Ss3vJ8rrUIH7ByNh1BUlRa2fhsJhq8MXzEowCc_g33d6e3b928f_0_67.png){width=100%}
+![](making-group-poster_files/figure-docx//1hYKF7Ss3vJ8rrUIH7ByNh1BUlRa2fhsJhq8MXzEowCc_g33d6e3b928f_0_67.png){width=100%}
 
 Since you completed this work as a team of scientists, all of your team members are considered authors. List your team members in alphabetical order. The author’s affiliation is the university, college, research institution or company that the work was conducted at.  
 
@@ -91,7 +91,7 @@ A note on the title:
 
 C-MOOR Abstract examples:
 
-![](resources/images/making-group-poster_files/figure-docx//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g36d8202a6d3_0_0.png){width=100%}
+![](making-group-poster_files/figure-docx//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g36d8202a6d3_0_0.png){width=100%}
 
 An abstract is a concise summary of your work. An effective abstract will be well designed and communicated, and will inform the reader of the relevant background to the research, scientific hypothesis being tested, the purpose of the study, the main methods, and the most important results and conclusions.  
 
@@ -137,7 +137,7 @@ Many scientists choose to write the abstract last, after they fully understand t
 
 #### Introduction
 
-![](resources/images/making-group-poster_files/figure-docx//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g362974128df_0_18.png){width=100%}
+![](making-group-poster_files/figure-docx//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g362974128df_0_18.png){width=100%}
 
 An introduction typically appears immediately after the Abstract section, and while abstract is very brief and consise, Introduction provides more context and background information to your research. 
 Indeed, the main goal of the Introduction is to **clearly elaborate on relevant background information and provide context for research gap and hypothesis**.
@@ -146,11 +146,11 @@ Indeed, the main goal of the Introduction is to **clearly elaborate on relevant 
 
 - Sometimes, you will se an Introduction section used instead of the Abstract + Introduction sections, in which case, the Introduction will contain both, abstract information plus additional background information, such as this published PacBio's  abstract on 'Genome-resolved metagenome assembly of human oral microbiome using highly accurate long-read sequencing'. 
 
-![](resources/images/making-group-poster_files/figure-docx//1hYKF7Ss3vJ8rrUIH7ByNh1BUlRa2fhsJhq8MXzEowCc_g33d6e3b928f_0_149.png){width=100%}
+![](making-group-poster_files/figure-docx//1hYKF7Ss3vJ8rrUIH7ByNh1BUlRa2fhsJhq8MXzEowCc_g33d6e3b928f_0_149.png){width=100%}
 
 #### Materials and Methods
 
-![](resources/images/making-group-poster_files/figure-docx//1hYKF7Ss3vJ8rrUIH7ByNh1BUlRa2fhsJhq8MXzEowCc_g33d6e3b928f_1_1.png){width=100%}
+![](making-group-poster_files/figure-docx//1hYKF7Ss3vJ8rrUIH7ByNh1BUlRa2fhsJhq8MXzEowCc_g33d6e3b928f_1_1.png){width=100%}
 
 The materials and methods section will detail your analysis of the data. Don’t provide any of your results, just the methods. If you did not generate the data yourself from raw samples, you will simply cite the paper that made them instead of detailing their construction. We will also need to list any programs we used and provide credit to their creators.
 
@@ -158,7 +158,7 @@ Some other things you might include would be what type of analysis you decided t
 
 #### Results
 
-![](resources/images/making-group-poster_files/figure-docx//1hYKF7Ss3vJ8rrUIH7ByNh1BUlRa2fhsJhq8MXzEowCc_g33d6e3b928f_0_6.png){width=100%}
+![](making-group-poster_files/figure-docx//1hYKF7Ss3vJ8rrUIH7ByNh1BUlRa2fhsJhq8MXzEowCc_g33d6e3b928f_0_6.png){width=100%}
 
 The Results section is where you will detail your data primarily through **figures and tables**, though sometimes written text is included. Begin by creating your tables and figures. 
 
@@ -182,7 +182,7 @@ The Results section is where you will detail your data primarily through **figur
 
 #### Conclusions/Discussion
 
-![](resources/images/making-group-poster_files/figure-docx//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g362974128df_0_52.png){width=100%}
+![](making-group-poster_files/figure-docx//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g362974128df_0_52.png){width=100%}
 
 The discussion section of the paper is your chance to analyze and interpret your results. The discussion section generally addresses the following:
 
@@ -193,7 +193,7 @@ The discussion section of the paper is your chance to analyze and interpret your
 
 #### References
 
-![](resources/images/making-group-poster_files/figure-docx//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g362974128df_0_80.png){width=100%}
+![](making-group-poster_files/figure-docx//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g362974128df_0_80.png){width=100%}
 
 All the references that you cite on your poster must be present in a References section including the following sections: Introduction, Methods, and Discussion. To save space on our posters, we will number our references (ex. 1-5) and use the numbers as citations throughout the text of your poster. You may have a lot of references; it is okay to put them in tiny text if you have to in order to make them fit.
 
@@ -212,7 +212,7 @@ Online article only:
 
 #### Acknowledgements
 
-![](resources/images/making-group-poster_files/figure-docx//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g362974128df_0_30.png){width=100%}
+![](making-group-poster_files/figure-docx//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g362974128df_0_30.png){width=100%}
 
 The acknowledgements section is where you give thanks to the people, organizations, and institutions that have supported you in your research. If relevant, include the grant ID # of your funding source. Institutions and organizations that have contributed to your research - but you do not belong to - can be thanked here.
 
