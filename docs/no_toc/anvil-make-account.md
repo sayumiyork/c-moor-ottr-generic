@@ -26,7 +26,7 @@ Follow the written steps below or refer to the [slides](https://docs.google.com/
 1. Click "Sign in"
 
 
-<img src="anvil-make-account_files/figure-html//1uwlG7uaTOnItdpd4Ll6nNQiBJKBivsvR-erupicAwJM_g36368ab83bf_0_2.png" width="100%" style="display: block; margin: auto;" />
+<img src="anvil-make-account_files/figure-html//1uwlG7uaTOnItdpd4Ll6nNQiBJKBivsvR-erupicAwJM_g36368ab83bf_0_2.png" alt="'Test'" width="100%" style="display: block; margin: auto;" />
 
 4. Click "Sign in with Google".
 5. Sign in with a <mark>**Google associated email address**</mark> such as an institutional email that uses Gmail or a personal Gmail account. You must use a Google associated email address to gain access to Google Cloud computing resources. 
