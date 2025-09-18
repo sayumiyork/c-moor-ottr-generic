@@ -5,8 +5,11 @@
 
 *Estimated time: ---*
 
-<!-- change fig.align quotes from single to double -->
-<img src="community-analysis-and-feedback_files/figure-html//1-orSi8DpN22hMt9-6p_rHZnte1YXXLe-a132HDSyd0U_g35f391192_00.png" alt="Image test" width="100%" style="display: block; margin: auto;" />
+<!-- change fig.align quotes from single to double: DID NOT WORK-->
+
+<!-- change fig.align quotes from single to double and remove fig alt-->
+
+<img src="community-analysis-and-feedback_files/figure-html//1-orSi8DpN22hMt9-6p_rHZnte1YXXLe-a132HDSyd0U_g35f391192_00.png" width="100%" style="display: block; margin: auto;" />
 
 [Scientific Posters](https://docs.google.com/presentation/d/1-orSi8DpN22hMt9-6p_rHZnte1YXXLe-a132HDSyd0U/edit?usp=sharing)
 
