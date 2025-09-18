@@ -1,7 +1,7 @@
 
 ## Running a module on AnVIL
-
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= ""}
+<!-- change fig.align quotes from single to double -->
+```{r, fig.align="center", out.width="100%", echo = FALSE, fig.alt= ""}
 ottrpal::include_slide("https://docs.google.com/presentation/d/11wb3b7i9SwrDX_WO3mWNAycd2mbY4Moy8SuT0X3XvXo/edit#slide=id.g3709d9ac459_0_250")
 ```
 
