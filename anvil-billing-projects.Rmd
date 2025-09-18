@@ -3,7 +3,7 @@
 
 <mark>**This section is only for instructors. Students do NOT have to set up billing**</mark>
 
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Settings for cloning a workspace on AnVIL. Adjust the fields shown above."}
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt="test1"}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1yyH3DZb8Et19galJhNPiUnCevrFRC1acvMG2PB52FCo/edit#slide=id.g3709d9ac459_0_250")
 ```
 
@@ -27,7 +27,7 @@ We will learn about the billing structure of AnVIL and how to attach users to bi
 
 ### What is a billing project?
 
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Settings for cloning a workspace on AnVIL. Adjust the fields shown above."}
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt="test2."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1yyH3DZb8Et19galJhNPiUnCevrFRC1acvMG2PB52FCo/edit#slide=id.g37166799c0e_0_6")
 ```
 
@@ -40,7 +40,7 @@ We suggest each student uses their own workspace and attaching all those workspa
 
 Follow the written steps below or refer to the [slides](https://docs.google.com/presentation/d/1yyH3DZb8Et19galJhNPiUnCevrFRC1acvMG2PB52FCo/edit?usp=sharing) or video guide.
 
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Settings for cloning a workspace on AnVIL. Adjust the fields shown above."}
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt="test3"}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1yyH3DZb8Et19galJhNPiUnCevrFRC1acvMG2PB52FCo/edit#slide=id.g37166799c0e_0_90")
 ```
 
@@ -52,7 +52,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1yyH3DZb8Et19galJ
 ### Using groups to manage classes
 
 
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Settings for cloning a workspace on AnVIL. Adjust the fields shown above."}
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt="test4"}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1yyH3DZb8Et19galJhNPiUnCevrFRC1acvMG2PB52FCo/edit#slide=id.g37166799c0e_0_17")
 ```
 
