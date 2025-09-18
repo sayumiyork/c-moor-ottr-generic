@@ -5,7 +5,7 @@
 
 #### Purpose
 
-You will need an account on AnVIL in order to use the platform. In this section we'll go over the specifics of account creation. 
+You will need an account on AnVIL in order to use the platform. In this section we'll go over the specifics of account creation.  
 
 #### Learning Objectives
 
