@@ -20,7 +20,7 @@ You will need an account on AnVIL in order to use the platform. In this section 
 Follow the written steps below or refer to the [slides](https://docs.google.com/presentation/d/1uwlG7uaTOnItdpd4Ll6nNQiBJKBivsvR-erupicAwJM/edit?usp=sharing) or video guide.
 
 
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= ""}
+```{r, fig.align='center', out.width="100%", echo = FALSE}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1uwlG7uaTOnItdpd4Ll6nNQiBJKBivsvR-erupicAwJM/edit#slide=id.g3709d9ac459_0_299")
 ```
 
@@ -30,7 +30,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1uwlG7uaTOnItdpd4
 1. Click "Sign in"
 
 
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= ""}
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "'Test'"}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1uwlG7uaTOnItdpd4Ll6nNQiBJKBivsvR-erupicAwJM/edit#slide=id.g36368ab83bf_0_2")
 ```
 
