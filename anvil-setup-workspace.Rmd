@@ -3,21 +3,9 @@
 
 <mark>**This section is only for instructors. Students do NOT have to set up workspaces.**</mark>
 
-### A note to instructors on billing
-
-Instructors should have a Google billing account associated with their AnVIL account on Terra. We will not cover how to set up a Google Billing Account, which is separate from and required by a billing project. For assistance with setting up your billing account we suggest refering to the Terra (the platform on which AnVIL runs) [guide to billing](https://support.terra.bio/hc/en-us/articles/360048632271-Terra-costs-and-billing-GCP-details) and speaking with your institution’s information technology and finance departments. 
-
-Our team at C-MOOR is still piloting our curriculum on AnVIL. As such, we don't have much information on the approximate cost per student. We hope to provide this data in the future. 
-
-The best way to conserve costs is to <mark>make sure that students close out their session on AnVIL properly, including the deletion of the persistent disk</mark> after they are done working. AnVIL will continue to bill the billing project even if the environment is not in active use. 
-
-For more information on how to control computing charges, please see the Terra guide: [How to cut off GCP charges](https://support.terra.bio/hc/en-us/articles/360042023952-Runaway-costs-How-to-cut-off-GCP-charges). 
-
-
 ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt="test1"}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1uCiZDAwgh1iM5XPlpbK5uz7oVBujmimUXVQaR8iGuho/edit#slide=id.g368970cb22e_0_75")
 ```
-
 
 Follow the written steps below or refer to the [slides](https://docs.google.com/presentation/d/1uCiZDAwgh1iM5XPlpbK5uz7oVBujmimUXVQaR8iGuho/edit?usp=sharing) or video guide.
 
@@ -31,6 +19,16 @@ We will learn about managing students using groups and how to clone a copy of th
 1. Learn how to create groups that can be used to control users' access 
 1. Clone the workspace of your chosen C-MOOR curriculum for each section of your class
 1. Simultaneously add students of that section to the chosen workspace
+
+### A note to instructors on billing
+
+Instructors should have a Google billing account associated with their AnVIL account on Terra. We will not cover how to set up a Google Billing Account, which is separate from and required by a billing project. For assistance with setting up your billing account we suggest refering to the Terra (the platform on which AnVIL runs) [guide to billing](https://support.terra.bio/hc/en-us/articles/360048632271-Terra-costs-and-billing-GCP-details) and speaking with your institution’s information technology and finance departments. 
+
+Our team at C-MOOR is still piloting our curriculum on AnVIL. As such, we don't have much information on the approximate cost per student. We hope to provide this data in the future. 
+
+The best way to conserve costs is to <mark>make sure that students close out their session on AnVIL properly, including the deletion of the persistent disk</mark> after they are done working. AnVIL will continue to bill the billing project even if the environment is not in active use. 
+
+For more information on how to control computing charges, please see the Terra guide: [How to cut off GCP charges](https://support.terra.bio/hc/en-us/articles/360042023952-Runaway-costs-How-to-cut-off-GCP-charges). 
 
 
 ### Using groups to manage classes
@@ -58,10 +56,6 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1uCiZDAwgh1iM5XPl
 
 The instructor will clone the workspace in AnVIL. We recommend cloning one workspace for each section you teach. Each workspace can be shared by approximately 50 students without issue. You can clone multiple workspaces for exceptionally large classes. Students in a given section will use the cloned workspace for all learning modules and the research project.
 
-
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= ""}
-ottrpal::include_slide("https://docs.google.com/presentation/d/1uCiZDAwgh1iM5XPlpbK5uz7oVBujmimUXVQaR8iGuho/edit#slide=id.g368970cb22e_0_0")
-```
 
 1. While logged into AnVIL, using the hamburger icon in the top left corner of the screen, navigate to the workspaces page
 2. Select the public tab
