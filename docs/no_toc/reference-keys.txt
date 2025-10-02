@@ -36,9 +36,9 @@ purpose-2
 learning-objectives-2
 create-an-anvil-account
 setting-up-workspaces-on-anvil
-a-note-to-instructors-on-billing
 purpose-3
 learning-objectives-3
+a-note-to-instructors-on-billing
 using-groups-to-manage-classes
 clone-a-workspace-on-anvil
 running-a-module-on-anvil
