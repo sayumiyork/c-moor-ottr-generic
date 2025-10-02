@@ -30,6 +30,7 @@ Follow the written steps below or refer to the [slides](https://docs.google.com/
 
 4. Click "Sign in with Google".
 5. Sign in with a <mark>**Google associated email address**</mark> such as an institutional email that uses Gmail or a personal Gmail account. You must use a Google associated email address to gain access to Google Cloud computing resources. 
-6. If you are a student, share the email you used to sign up for AnVIL with your instructor following their instructions. If you are an instructor on a C-MOOR billing project, share the email you used to sign up with someone from C-MOOR. 
+6. If you are a student, share the email you used to sign up for AnVIL with your instructor following their instructions.
 
-**Until your account is associated with a billing project you will be unable to use computational resources on AnVIL.** 
+<mark>**Instructors should collect the student emails and use them in the next section, "Setting up workspaces on AnVIL." Students do not need to set up a workspace, and should proceed to the section, "Running a module on AnVIL".**</mark> 
+
