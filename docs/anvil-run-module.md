@@ -1,7 +1,7 @@
 
 ## Running a module on AnVIL
 <!-- change fig.align quotes from single to double -->
-<img src="anvil-run-module_files/figure-html//11wb3b7i9SwrDX_WO3mWNAycd2mbY4Moy8SuT0X3XvXo_g3709d9ac459_0_250.png" width="100%" style="display: block; margin: auto;" />
+![](anvil-run-module_files/figure-docx//11wb3b7i9SwrDX_WO3mWNAycd2mbY4Moy8SuT0X3XvXo_g3709d9ac459_0_250.png){width=100%}
 
 #### Purpose
 
@@ -26,7 +26,7 @@ The workspace is the heart of AnVIL. Here are some key points about workspaces:
 
 When you open the workspace, you will be on the dashboard tab by default. The dashboard contains the instructions on how to use the workspace, links to C-MOOR websites, and the startup script. Let’s try running a module.
 
-<img src="anvil-run-module_files/figure-html//11wb3b7i9SwrDX_WO3mWNAycd2mbY4Moy8SuT0X3XvXo_g3709d9ac459_0_271.png" width="100%" style="display: block; margin: auto;" />
+![](anvil-run-module_files/figure-docx//11wb3b7i9SwrDX_WO3mWNAycd2mbY4Moy8SuT0X3XvXo_g3709d9ac459_0_271.png){width=100%}
 
 1. Take note of the container image for the custom environment. We recommend copying this to a word document or notepad. Make sure there are no spaces before or after what you copy. You will need to input this URL soon.
 
@@ -34,7 +34,7 @@ When you open the workspace, you will be on the dashboard tab by default. The da
 
 3. Click on the Environment Configuration button , the cloud with a thunderbolt.
 
-<img src="anvil-run-module_files/figure-html//11wb3b7i9SwrDX_WO3mWNAycd2mbY4Moy8SuT0X3XvXo_g3709d9ac459_0_275.png" width="100%" style="display: block; margin: auto;" />
+![](anvil-run-module_files/figure-docx//11wb3b7i9SwrDX_WO3mWNAycd2mbY4Moy8SuT0X3XvXo_g3709d9ac459_0_275.png){width=100%}
 
 4. In the RStudio section, click Settings.
 
@@ -46,23 +46,23 @@ When you open the workspace, you will be on the dashboard tab by default. The da
 
 8. Scroll to the bottom of the window and click “Create”. 
 
-<img src="anvil-run-module_files/figure-html//11wb3b7i9SwrDX_WO3mWNAycd2mbY4Moy8SuT0X3XvXo_g3709d9ac459_0_279.png" width="100%" style="display: block; margin: auto;" />
+![](anvil-run-module_files/figure-docx//11wb3b7i9SwrDX_WO3mWNAycd2mbY4Moy8SuT0X3XvXo_g3709d9ac459_0_279.png){width=100%}
 
 It will take some time for the RStudio Environment to be created. You can keep track of the status of the environment based on the colored dot next to the RStudio icon. The dot will turn green when the environment is ready. While it is loading (blue), you cannot interact with it.
 
-<img src="anvil-run-module_files/figure-html//11wb3b7i9SwrDX_WO3mWNAycd2mbY4Moy8SuT0X3XvXo_g3709d9ac459_0_283.png" width="100%" style="display: block; margin: auto;" />
+![](anvil-run-module_files/figure-docx//11wb3b7i9SwrDX_WO3mWNAycd2mbY4Moy8SuT0X3XvXo_g3709d9ac459_0_283.png){width=100%}
 
 9. When the environment is ready, use the Open RStudio button that will pop up. You can also access RStudio through the Analyses tab. If you hold down Ctrl as you click, you can open RStudio in a new window.
 
-<img src="anvil-run-module_files/figure-html//11wb3b7i9SwrDX_WO3mWNAycd2mbY4Moy8SuT0X3XvXo_g3709d9ac459_0_287.png" width="100%" style="display: block; margin: auto;" />
+![](anvil-run-module_files/figure-docx//11wb3b7i9SwrDX_WO3mWNAycd2mbY4Moy8SuT0X3XvXo_g3709d9ac459_0_287.png){width=100%}
 
 10. Use the file explorer in RStudio to navigate to your module of choice. From the folder called cure-rnaseq, go to tutorials, and then the folder of the module you want.
 
-<img src="anvil-run-module_files/figure-html//11wb3b7i9SwrDX_WO3mWNAycd2mbY4Moy8SuT0X3XvXo_g3709d9ac459_0_291.png" width="100%" style="display: block; margin: auto;" />
+![](anvil-run-module_files/figure-docx//11wb3b7i9SwrDX_WO3mWNAycd2mbY4Moy8SuT0X3XvXo_g3709d9ac459_0_291.png){width=100%}
 
 11. In the module’s directory, open the .Rmd file by double clicking its name.
 
-<img src="anvil-run-module_files/figure-html//11wb3b7i9SwrDX_WO3mWNAycd2mbY4Moy8SuT0X3XvXo_g3709d9ac459_0_295.png" width="100%" style="display: block; margin: auto;" />
+![](anvil-run-module_files/figure-docx//11wb3b7i9SwrDX_WO3mWNAycd2mbY4Moy8SuT0X3XvXo_g3709d9ac459_0_295.png){width=100%}
 
 12. Click Run Document in the open .Rmd file
 
@@ -70,7 +70,7 @@ It will take some time for the RStudio Environment to be created. You can keep t
 
 ### Closing out a session on AnVIL
 
-<img src="anvil-run-module_files/figure-html//11wb3b7i9SwrDX_WO3mWNAycd2mbY4Moy8SuT0X3XvXo_g3709d9ac459_0_299.png" alt="The status of the RStudio Environment." width="100%" style="display: block; margin: auto;" />
+![](anvil-run-module_files/figure-docx//11wb3b7i9SwrDX_WO3mWNAycd2mbY4Moy8SuT0X3XvXo_g3709d9ac459_0_299.png){width=100%}
 
 1. On the right side of the screen, click the Cloud Environment button. This is the Cloud with the lighting symbol.
 1. Under the RStudio section, click settings.
