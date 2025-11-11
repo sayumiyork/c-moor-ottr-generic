@@ -20,8 +20,8 @@ Follow the written steps below or refer to the [slides](https://docs.google.com/
 
 ![](anvil-make-account_files/figure-docx//1uwlG7uaTOnItdpd4Ll6nNQiBJKBivsvR-erupicAwJM_g3709d9ac459_0_299.png){width=100%}
 
-1. Open [anvil.terra.bio](https://anvil.terra.bio/) in <mark> **Google Chrome** </mark>. Google Chrome is the only officially supported web browser for AnIVL. Because of this, while you can run AnVIL in other browsers you strongly suggest using Chrome.
-    a. It is a good idea to bookmark this page so that you can easily access it throughout the course.
+1. Open [anvil.terra.bio](https://anvil.terra.bio/) in <mark> **Google Chrome** </mark>. Google Chrome is the only officially supported web browser for AnVIL. Because of this, while you can run AnVIL in other browsers you strongly suggest using Chrome.
+    - Tip: bookmark this page so that you can easily access it throughout the course.
 1. Click the hamburger icon (3 lines) in the top left corner of the screen 
 1. Click "Sign in"
 
