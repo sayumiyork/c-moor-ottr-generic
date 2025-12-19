@@ -14,6 +14,7 @@ rmd_files: ["index.Rmd",
             "anvil-setup-workspace.Rmd",
             "anvil-run-module.Rmd",
             "cloud-platforms.Rmd",
+            "spreadsheets-tutorial.Rmd",
             "making-group-poster.Rmd",
             "community-analysis-and-feedback.Rmd",
             "References.Rmd"]
