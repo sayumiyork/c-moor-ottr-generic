@@ -108,3 +108,13 @@ research-opportunities-at-your-institution
 find-a-research-lab-to-join
 biodigs
 online-community
+spreadsheets-101
+right-clicking
+getting-a-copy-of-the-spreadsheet
+basic-spreadsheet-terms
+summary-statistics-by-row-or-column
+adding-data-to-cells
+applying-a-calculation-to-many-cells
+manipulating-the-spreadsheet
+useful-formulas-in-google-sheets
+on-variance
