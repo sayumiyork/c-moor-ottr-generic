@@ -1,5 +1,6 @@
+# (PART\*) Resources {-}
 
-## Spreadsheets 101
+# Spreadsheets 101
 
 **Spreadsheets** are tables that organize data using rows and columns. Spreadsheets are used in nearly every field of study and in personal life. The two most popular spreadsheet programs are Google Sheets and Microsoft Excel. While they can do approximately the same things, the exact steps to perform analyses are slightly different. <mark>To keep things standardized between students we ask all students to use Google Sheets, which is also free for users with a Gmail account</mark>.
 
