@@ -49,7 +49,7 @@ running-modules-on-anvil
 starting-a-module-on-anvil
 closing-out-a-session-on-anvil
 scientific-posters
-making-group-poster
+making-a-group-poster
 preparing-to-make-a-poster
 part-1---choose-a-template
 part-2---make-an-academic-research-poster
@@ -118,3 +118,6 @@ applying-a-calculation-to-many-cells
 manipulating-the-spreadsheet
 useful-formulas-in-google-sheets
 on-variance
+figure-and-tables-guide
+figures
+tables
