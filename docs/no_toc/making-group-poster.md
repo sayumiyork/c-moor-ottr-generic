@@ -22,7 +22,7 @@ In this section we will go over how to create a scientific poster. We chose a po
 
 - **Posters can be used to measure student achievement and understanding**: We have previously used these posters to evaluate student learning, even years after students have left the classroom. Check out our [poster on posters!](https://drive.google.com/file/d/1kK6FBBLbHiAAsTUgxwzHRlK1qCo__eCy/view?usp=sharing)
 
-## Making Group Poster 
+## Making a Group Poster 
 
 ### Preparing to make a poster
 
