@@ -16,6 +16,7 @@ rmd_files: ["index.Rmd",
             "cloud-platforms.Rmd",
             "making-group-poster.Rmd",
             "community-analysis-and-feedback.Rmd",
+            "resources-section.Rmd",
             "spreadsheets-tutorial.Rmd",
             "legends-tutorial.Rmd",
             "References.Rmd"]
