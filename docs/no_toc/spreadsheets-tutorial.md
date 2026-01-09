@@ -1,4 +1,3 @@
-# (PART\*) Resources {-}
 
 # Spreadsheets 101
 
