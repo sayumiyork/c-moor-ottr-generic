@@ -11,7 +11,7 @@
 
 ![](community-analysis-and-feedback_files/figure-docx//1-orSi8DpN22hMt9-6p_rHZnte1YXXLe-a132HDSyd0U_g35f391192_00.png){width=100%}
 
-[Scientific Posters](https://docs.google.com/presentation/d/1-orSi8DpN22hMt9-6p_rHZnte1YXXLe-a132HDSyd0U/edit?usp=sharing)
+[Scientific Posters](https://docs.google.com/presentation/d/1coAc4GY1CkpiBcamCYsEemjOsa6zTWiK6kd2C1iAaKA/edit?usp=sharing)
 
 ## Activity - Scientific Posters
 
@@ -39,11 +39,9 @@
 
 - **Support** – Two or three suggestions on how the poster could be improved.
 
-4. Post your answers by replying to the “Project Work: Scientific Posters” topic in the Discussion Forum
-
 ### Grading Criteria
 
-- <mark style="background-color: yellow">Submit URL to your reply on Canvas</mark>.
+Comment on your class' LMS (Blackboard, Canvas, Google Classroom) discussion board or refer to your instructor's choice.
 
 ### Footnotes
 
@@ -51,8 +49,9 @@
 
 - Valeriya Gaysinskaya, Johns Hopkins University
 - Frederick Tan, Johns Hopkins University
+- Sayumi York, Notre Dame of Maryland University
 
-Last Revised: February 2025
+Last Revised: January 2026
 
 
 ## Activity - Share Your Poster
@@ -67,30 +66,54 @@ It's almost time!  Prepare for your final presentation by thinking about how to 
 
 #### Instructions
 
-1. Download your poster as a .png file
-- [https://drive.google.com/drive/folders/1y_GCJl7VIYTS_5y7057u2s58ZCdm_PxM](https://drive.google.com/drive/folders/1y_GCJl7VIYTS_5y7057u2s58ZCdm_PxM)
+1. Convert and/or download your poster as a .png file in full resolution. Make sure you look at the .png file and confirm the poster is high enough quality that even small text can be read. 
 
-2. (One person on behalf of the group) Create a New Topic on the Discussion Forum with the title of your poster as the topic title and your .png file as the contents in either the
+- In Google Slides:
 
-a. Look at This! category if every member of your group is ok sharing your work publicly
-[https://help.c-moor.org/c/look-at-this/8](https://help.c-moor.org/c/look-at-this/8)
+    a. Go to File > Download > select PNG image or JPEG image.
 
-b. JHU 2025 Spring category if you need to keep your work private
-https://help.c-moor.org/c/jhu-2025-spring/46
+    b. Locate the downloaded file on your computer. By default, most computers will download files to the “Download” folder or the Desktop.
 
-3. (Each person in the group) Reply to your topic using your own words with the following two bolded sections using the following template
+- In PowerPoint:
 
-|  |
-|:--|
-|**What I Did**|
-|<Briefly describe what you did including what you found most interesting>|
-|**How You Can Help**|
-|<Briefly describe how others could continue this analysis especially what you would do next if you were to continue this project>|
-<br>
+    a. Enter the File tab to the top of the window, to the left of the Home tab
+
+    b. Select Save As
+
+    c. Select This PC
+
+    d. In the field underneath the file name, select the *.png or *.jpg format
+
+    e. Select save
+
+    f. Locate the saved file on your computer. By default, most computers will save the file in the same location as the original PowerPoint (.pptx) file.
+
+
+2. Have one person on behalf of the group create a New Topic on your instructor's chosen forum below with the title of your poster as the topic title and your .png file as the contents in either the:
+
+    a. [C-MOOR Academy Discussion Forum's Look at This!](https://help.c-moor.org/c/look-at-this/8) category if every member of your group agrees to share your work publicly.
+
+    b. Class category on the C-MOOR Academy Discussion Forum (if applicable) to keep your work private 
+
+    c. The forum or outlet of your instructor's choice
+
+3. Have each person in the group reply to your topic using your own words answering your choice of 2 of the following 5 questions, with the question included as part of the post. Your answers should be specific and refer directly to your research poster:
+
+    - What was your favorite part about doing the research project and why?
+    - What was something about your project or the research process that surprised you and why?
+    - What is one specific skill in biology and/or research that you learned through this project? Give an example how you used this in your project.
+    - What is an example of a challenge that you had to overcome during this research project?
+    - What is one thing you learned from this project that you can take forward in your future work? How do you see it being helpful in your chosen field?
+
 
 #### Questions
 
-| 1. Provide URL of your Discussion Forum post |
+| 1. A copy of your written answers here: |
+|:--|
+||
+<br>
+
+| 2. Provide the URL of your Discussion Forum post (if applicable) |
 |:--|
 ||
 <br>
@@ -101,17 +124,17 @@ https://help.c-moor.org/c/jhu-2025-spring/46
 
 #### Instructions
 
-1. Create a plan for a 5 min presentation taking into consideration
+1. Create a plan for a 5 min presentation taking into consideration:
 
-a. Who will speak when
+    a. Who will speak when
 
-b. What each person will cover
+    b. What each person will cover
 
 2. Practice your presentation
 
-a. In your group
+    a. In your group
 
-b. To the class
+    b. To the class
 
 
 #### Questions
@@ -126,20 +149,21 @@ b. To the class
 
 ### Grading Criteria
 
-- Download as Microsoft Word (.docx) and upload on Canvas
+- Submit your work on your LMS (Blackboard, Canvas, Google Classroom) or refer to your instructor's choice.
 
 ### Footnotes
 
 **Resources**
 
-- [Google Doc]
+- [Google Doc](https://docs.google.com/presentation/d/1cH7vm_lAxe_JUlr1H_M5Ujas-pTUY8qPBthTcSOiIXA/edit?usp=sharing)
 
 **Contributions and Affiliations**
 
 - Valeriya Gaysinskaya, Johns Hopkins University
 - Frederick Tan, Johns Hopkins University
+- Sayumi York, Notre Dame of Maryland University
 
-Last Revised: April 2025
+Last Revised: January 2026
 
 
 # Professional Development
@@ -161,10 +185,9 @@ Now that you've finished your C-MOOR project, how do you close out your research
 
 ### Introduction
 
-Congratulations on making it to the end of Microbial Mysteries!  Take a moment and reflect on all that you've accomplished during this semester, especially those of you who reported in the Welcome Poll "No experience" with Microbiology, Galaxy, and Scientific Research.  While the "Grad Student Motivation Level" PHD Comics spans years, it likely reflects the ups and downs as you developed and explored your hypothesis, including the thrill of presenting your work to people in our mini-symposium.  The feedback has been great with faculty impressed at what you’ve accomplished, the depth that you understand your projects, and even one scientist who does metagenomics research reporting that they learned a new trick or two!  
+Congratulations on completing your research project! Take a moment and reflect on all that you've accomplished during this semester, especially those of you for whom this was your first research experience! Did you experience all the ups and downs of the research project from coming up with a research idea hypothesis, dealing with unexpected set-backs, and discovering something new? 
 
-
-We’ll wrap up today with several next steps including completing feedback to improve the next offering of this course , researching opportunities to do more science, exploring communities where scientists openly share insights, and optionally sharing more work.
+We’ll wrap up here with several next steps including completing feedback to improve the next offering of this course, researching opportunities to do more science, exploring communities where scientists openly share insights, and optionally sharing more work.
 
 ### Activity 1 – Complete Feedback
 
@@ -172,12 +195,13 @@ We’ll wrap up today with several next steps including completing feedback to i
 
 #### Instructions
 
-Help us improve this course as we work to grow enrollment to accommodate 32 to 64 students, incorporate graduate TAs and undergraduate course assistants and tutors,  and promote more computational training and research opportunities throughout departmental courses
-https://forms.gle/XkqiMERHc2PETmy4A
+Help us improve this course! 
+If you're willing to have your feedback used in an official educational research survey, you will need to use a pre-authorized survey link from C-MOOR. Either way, your instructor will connect you to any feedback form.
+
 
 ### Activity 2 – Research Opportunities
 
-|1. Find one LAB at YOUR INSTITUTION  that you would work in and explain why.|
+|1. Knowing what you know now about research, what related skills are you interested in developing further and why?|
 |:---|
 | Your text here:|
 <br>
@@ -196,7 +220,7 @@ https://forms.gle/XkqiMERHc2PETmy4A
 
 #### Instructions
 
-Spend a little bit of time browsing communities that discuss genomics, data analysis, and more.  Paste the URLs for a couple of posts that you find interesting with a brief comment.
+Spend a little bit of time browsing communities that discuss genomics, data analysis, and more. Paste the URLs for a couple of posts that you find interesting with a brief comment.
 
 #### Questions
 
@@ -234,93 +258,21 @@ c. Bluesky: Social media as it should be
 | |
 <br>
 
-### (Optional) Activity 4 – Share Work
-
-*Estimated time: 15 min*
-
-#### Instructions
-
-1. Upload photos – Especially photo of your group standing in front of your poster
-
-- [https://drive.google.com/drive/folders/1y_GCJl7VIYTS_5y7057u2s58ZCdm_PxM](https://drive.google.com/drive/folders/1y_GCJl7VIYTS_5y7057u2s58ZCdm_PxM)
-
-2. Publicly share poster – If every member of your group is ok sharing your work publicly
-
-- [https://help.c-moor.org/c/look-at-this/8](https://help.c-moor.org/c/look-at-this/8)
-
 ### Grading Criteria
 
-- Download as Microsoft Word (.docx) and upload on Canvas
+- Download as Microsoft Word (.docx) and upload to your LMS (Blackboard, Canvas, Google Classroom) or refer to your instructor's choice.
 
 ### Footnotes
 
 **Resources**
 
-- Google Doc
+- [Google Doc](https://docs.google.com/document/d/11gEndv8IaqVKuq53rMzltsUQSvyLNjczRTZAD_xt_do/edit?usp=sharing)
 
 **Contributions and Affiliations**
 
 - Valeriya Gaysinskaya, Johns Hopkins University
 - Frederick Tan, Johns Hopkins University
-
-
-## Science Talks
-
-Science Talks feature a guest lecturer to showcase their research work, share their scientific journety and engage in Q and A with the students. It is a one of a kind opportunity for students to engage with a scientific scholar and/or expert from across departments, fields, and career stages and explore, broaden or narrow students' scientific interests.
-
-<br>
-
-The two invited speakers for the Microbial Mysteries CURE Spring 2025 at the JHU were:
-
-1. Dr. Karina Gutiérrez-García
-2. Dr. Leah Guthrie
-
-![](community-analysis-and-feedback_files/figure-docx//1hYKF7Ss3vJ8rrUIH7ByNh1BUlRa2fhsJhq8MXzEowCc_g344ad28629a_0_263.png){width=100%}
-
-For each speaker, students were asked to prepare by completing the Science Talks Activities.
-
-### Science Talks - Activity 1
-
-*Estimated time: 50 min*
-
-1. Read/Browse the following information about **Dr. Karina Gutiérrez-García**
-
-
-a. Postdoc Spotlight [carnegiescience.edu/news/postdoc-spotlight-karina-gutierrez-garcia](carnegiescience.edu/news/postdoc-spotlight-karina-gutierrez-garcia)
-
-b. “Home sweet home” perspective on study of fruit fly gut microbiome [pubmed.gov/39637006](pubmed.gov/39637006)
-
-c. Abstract for “A conserved bacterial genetic basis for commensal-host specificity” [pubmed.gov/39636981](pubmed.gov/39636981)
-
-d. Abstract for “Gut microbiomes of cycad-feeding insects tolerant to β-methylamino-L-alanine (BMAA) are rich in siderophore biosynthesis [pubmed.gov/37993724](pubmed.gov/37993724)
-
-
-2. Post three questions to the speaker in the Discussion Forum at [https://help.c-moor.org/t/469](https://help.c-moor.org/t/469).
-
-1. Science – What scientific question do you have about Speaker’s research, ranging from basic background questions to possible next steps?
-2. Method – What methods would you like the Speaker insight on, whether computational, genomics, or other exciting technologies?
-3. Career – What advice would you ask the Speaker for regarding how to get started, finding a mentor, etc.?
-
-### Science Talks - Activity 2
-
-*Estimated time: 50 min*
-
-1. Read/Browse the following information about **Dr. Leah Guthrie**
-
-a. Faculty focus [qb3.berkeley.edu/news/faculty-focus-leah-guthrie](qb3.berkeley.edu/news/faculty-focus-leah-guthrie)
-
-b. Abstract for “Impact of a 7-day homogeneous diet on interpersonal variation in human gut microbiomes and metabolomes” 
-[pubmed.gov/35643079](pubmed.gov/35643079)
-
-c. Abstract for “Human microbiome signatures of differential colorectal cancer drug metabolism” [pubmed.gov/29104759](pubmed.gov/29104759)
-
-
-2. Post three questions to the speaker in the Discussion Forum at [https://help.c-moor.org/t/469](https://help.c-moor.org/t/498).
-
-1. Science – What scientific question do you have about Speaker’s research, ranging from basic background questions to possible next steps?
-2. Method – What methods would you like the Speaker insight on, whether computational, genomics, or other exciting technologies?
-3. Career – What advice would you ask the Speaker for regarding how to get started, finding a mentor, etc.?
-
+- Sayumi York, Notre Dame of Maryland Univeristy
 
 ## Create your CV
 
@@ -390,11 +342,11 @@ Less formal than a class, more formal than just a gathering of like-minded minds
 
 Share your interests via C-MOOR Scholars Interest Form and learn how C-MOOR community can support you.
 
-- [https://docs.google.com/forms/d/1GJDpfG28k2utCVVcRXQraE-1coLS_GCX83irUyio9KE/edit](https://docs.google.com/forms/d/1GJDpfG28k2utCVVcRXQraE-1coLS_GCX83irUyio9KE/edit)
+- [C-MOOR Scholars Interest Form](https://docs.google.com/forms/d/1GJDpfG28k2utCVVcRXQraE-1coLS_GCX83irUyio9KE/edit)
 
-Meet the C-MOOR Scholars and learn how you can support them
+Meet some of the C-MOOR Scholars and learn how you can support them
 
-- [https://www.cloviscollege.edu/alumni-and-community/c-moor/c-moor-scholars.html](https://www.cloviscollege.edu/alumni-and-community/c-moor/c-moor-scholars.html)
+- [C-MOOR Scholars at CCC](https://www.cloviscollege.edu/alumni-and-community/c-moor/c-moor-scholars.html)
 
 ## Pursue further research
 
@@ -450,18 +402,19 @@ The genomic data science community is a remarkably open community that continual
 There are many opportunities to interact online with scientists that share a common research question, career stage, or even favorite tool!
 Below is a sampling of some discussion forums that you may find useful:
 
-- [help.c-moor.org](https://help.c-moor.org){target="_blank"} for help with and example miniCUREs
-- [help.galaxyproject.org](https://help.galaxyproject.org){target="_blank"} for all things Galaxy
-- [support.bioconductor.org](https://support.bioconductor.org){target="_blank"} for all things R/Bioconductor
-- [help.anvilproject.org](https://help.anvilproject.org){target="_blank"} for interactions with the GDSCN BioDIGS consortium [https://biodigs.org/#home](https://biodigs.org/#home)
+- [C-MOOR Academy Discussion Forum](https://help.c-moor.org){target="_blank"} for help with and example miniCUREs
+- [Galaxy forum](https://help.galaxyproject.org){target="_blank"} for all things Galaxy
+- [Bioconductor forum](https://support.bioconductor.org){target="_blank"} for all things R/Bioconductor
+- [AnVIL forum](https://help.anvilproject.org){target="_blank"} for all things related to the cloud computing platform, AnVIL
+- [BioDIGS](https://biodigs.org/#home) for interactions with the GDSCN BioDIGS consortium 
 
-![](community-analysis-and-feedback_files/figure-docx//1fH9s5OLcRF5meZtFWTJe89RFvJSh125kdjhdqp5smqA_g302b08c5e6e_0_16.png)
+![](community-analysis-and-feedback_files/figure-docx//1fH9s5OLcRF5meZtFWTJe89RFvJSh125kdjhdqp5smqA_g302b08c5e6e_0_16.png){width=100%}
 
-![](community-analysis-and-feedback_files/figure-docx//1fH9s5OLcRF5meZtFWTJe89RFvJSh125kdjhdqp5smqA_g302b08c5e6e_0_5.png)
+![](community-analysis-and-feedback_files/figure-docx//1fH9s5OLcRF5meZtFWTJe89RFvJSh125kdjhdqp5smqA_g302b08c5e6e_0_5.png){width=100%}
 
-![](community-analysis-and-feedback_files/figure-docx//1fH9s5OLcRF5meZtFWTJe89RFvJSh125kdjhdqp5smqA_g302b08c5e6e_0_22.png)
+![](community-analysis-and-feedback_files/figure-docx//1fH9s5OLcRF5meZtFWTJe89RFvJSh125kdjhdqp5smqA_g302b08c5e6e_0_22.png){width=100%}
 
-![](community-analysis-and-feedback_files/figure-docx//1fH9s5OLcRF5meZtFWTJe89RFvJSh125kdjhdqp5smqA_g302b08c5e6e_0_12.png)
+![](community-analysis-and-feedback_files/figure-docx//1fH9s5OLcRF5meZtFWTJe89RFvJSh125kdjhdqp5smqA_g302b08c5e6e_0_12.png){width=100%}
 
 
 
