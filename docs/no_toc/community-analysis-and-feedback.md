@@ -157,6 +157,7 @@ It's almost time!  Prepare for your final presentation by thinking about how to 
 
 - [Google Doc](https://docs.google.com/presentation/d/1cH7vm_lAxe_JUlr1H_M5Ujas-pTUY8qPBthTcSOiIXA/edit?usp=sharing)
 
+
 **Contributions and Affiliations**
 
 - Valeriya Gaysinskaya, Johns Hopkins University
@@ -176,7 +177,7 @@ Now that you've finished your C-MOOR project, how do you close out your research
 
 *Estimated time: ---*
 
-<img src="community-analysis-and-feedback_files/figure-html//1PMvZ19kSTK2ghdgLNFRS_t5p8R_GKFNbExPRxMsE1Ns_g35f391192_00.png" alt="Image test" width="100%" style="display: block; margin: auto;" />
+<img src="community-analysis-and-feedback_files/figure-html//1cH7vm_lAxe_JUlr1H_M5Ujas-pTUY8qPBthTcSOiIXA_g35f391192_00.png" alt="Image test" width="100%" style="display: block; margin: auto;" />
 
 [Slides: Next Steps](https://docs.google.com/presentation/d/1PMvZ19kSTK2ghdgLNFRS_t5p8R_GKFNbExPRxMsE1Ns/edit?usp=sharing)
 
