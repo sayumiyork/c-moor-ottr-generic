@@ -161,6 +161,7 @@ It's almost time!  Prepare for your final presentation by thinking about how to 
 
 - [Google Doc](https://docs.google.com/presentation/d/1cH7vm_lAxe_JUlr1H_M5Ujas-pTUY8qPBthTcSOiIXA/edit?usp=sharing)
 
+
 **Contributions and Affiliations**
 
 - Valeriya Gaysinskaya, Johns Hopkins University
@@ -186,7 +187,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1hYKF7Ss3vJ8rrUIH
 
 ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Image test"}
 
-ottrpal::include_slide("https://docs.google.com/presentation/d/1PMvZ19kSTK2ghdgLNFRS_t5p8R_GKFNbExPRxMsE1Ns/edit#slide=id.g35f391192_00")
+ottrpal::include_slide("https://docs.google.com/presentation/d/1cH7vm_lAxe_JUlr1H_M5Ujas-pTUY8qPBthTcSOiIXA/edit#slide=id.g35f391192_00")
 
 ```
 
