@@ -91,13 +91,8 @@ activity-2-research-opportunities
 activity-3-explore-communities
 instructions-4
 questions-2
-optional-activity-4-share-work
-instructions-5
 grading-criteria-3
 footnotes-3
-science-talks
-science-talks---activity-1
-science-talks---activity-2
 create-your-cv
 resume-or-cv
 c-moor-scholars
