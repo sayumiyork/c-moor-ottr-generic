@@ -101,7 +101,7 @@ A note on the title:
 
 C-MOOR Abstract examples:
 
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Image showing 2 abstracts from C-MOOR associated posters. One has a header that reads Abstract".}
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Image showing 2 abstracts from C-MOOR associated posters. One has a header that reads Abstract."}
 
 ottrpal::include_slide("https://docs.google.com/presentation/d/1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs/edit#slide=id.g36d8202a6d3_0_0")
 
