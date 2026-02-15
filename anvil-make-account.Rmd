@@ -1,7 +1,7 @@
 
 ## Sign up for an AnVIL account
 
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= ""}
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Title card for sign up for an AnVIL account which notes a prerequisitite: A Google associated email address such as an institutional account that uses Gmail or a personal Gmail"}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1uwlG7uaTOnItdpd4Ll6nNQiBJKBivsvR-erupicAwJM/edit?slide=id.g3709d9ac459_0_250#slide=id.g3709d9ac459_0_250")
 ```
 
@@ -20,7 +20,7 @@ You will need an account on AnVIL in order to use the platform. In this section 
 Follow the written steps below or refer to the [slides](https://docs.google.com/presentation/d/1uwlG7uaTOnItdpd4Ll6nNQiBJKBivsvR-erupicAwJM/edit?usp=sharing) or video guide.
 
 
-```{r, fig.align='center', out.width="100%", echo = FALSE}
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt="Image showing the AnVIL homescreen and accessing the sign in button through the hamburger icon in the top right corner of the page."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1uwlG7uaTOnItdpd4Ll6nNQiBJKBivsvR-erupicAwJM/edit#slide=id.g3709d9ac459_0_299")
 ```
 
@@ -30,7 +30,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1uwlG7uaTOnItdpd4
 1. Click "Sign in"
 
 
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "'Test'"}
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Screenshots of signing into Terra with a Google associated account."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1uwlG7uaTOnItdpd4Ll6nNQiBJKBivsvR-erupicAwJM/edit#slide=id.g36368ab83bf_0_2")
 ```
 

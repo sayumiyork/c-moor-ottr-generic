@@ -3,7 +3,7 @@
 
 <mark>**This section is only for instructors. Students do NOT have to set up workspaces.**</mark>
 
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt="test1"}
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt="Title card for setting up workspaces on AnVIL, which will cover managing students with groups, cloning a workspace for your class, and adding students to the workspace. A prerequisite is noted: you must have a billing account on AnVIL."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1uCiZDAwgh1iM5XPlpbK5uz7oVBujmimUXVQaR8iGuho/edit#slide=id.g368970cb22e_0_75")
 ```
 
@@ -34,7 +34,7 @@ For more information on how to control computing charges, please see the Terra g
 ### Using groups to manage classes
 
 
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt="test4"}
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt="An image showing the steps to access groups within AnVIL following along with instructions below."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1uCiZDAwgh1iM5XPlpbK5uz7oVBujmimUXVQaR8iGuho/edit#slide=id.g37166799c0e_0_17")
 ```
 
@@ -50,7 +50,7 @@ We recommend you manage students and their access to workspaces through groups. 
 
 ### Clone a workspace on AnVIL
 
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= ""}
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Image showing the steps to cloning a workspace in the workspaces tab on AnVIL following step-by-step directions below. Text reads: We recommend cloning one workspace for each section you teach. Each workspace can be shared by about 50 students without issue. You can clone multiple workspaces for exceptionally large classes."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1uCiZDAwgh1iM5XPlpbK5uz7oVBujmimUXVQaR8iGuho/edit#slide=id.g368970cb22e_0_0")
 ```
 
@@ -62,7 +62,7 @@ The instructor will clone the workspace in AnVIL. We recommend cloning one works
 3. Search for the desired workspace. Your instructor will tell you which workspace to look for (miniCURE-RNA-seq or miniCURE-16S-microbiome).
 4. Click on the more options icon on the right side of the desired workspace and click clone
 
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= ""}
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Image showing the Clone Workspace image in AnVIL with red boxes highlighting fields to change the workspace name and associated billing project."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1uCiZDAwgh1iM5XPlpbK5uz7oVBujmimUXVQaR8iGuho/edit#slide=id.g368970cb22e_0_147")
 ```
 
@@ -70,7 +70,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/1uCiZDAwgh1iM5XPl
 5. Give the cloned workspace a unique name. We recommend choosing the class and section name that the workspace is intended for.
 6. Confirm the billing project is the one you want to use. In this example, we have a billing project by semester and curriculum. All computational costs by students in the workspace will be billed ot this account.
 
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= ""}
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "A screenshot of the clone workspace window in AnVIL in tab 2, the sharing tab, where user emails can be used to give access to the workspace. The example settings are to add with writer permissions, including compute access."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1uCiZDAwgh1iM5XPlpbK5uz7oVBujmimUXVQaR8iGuho/edit#slide=id.g368970cb22e_0_151")
 ```
 

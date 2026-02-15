@@ -102,7 +102,7 @@ To use the calculation multiple times, we can do the following, all of which wil
 
 ### Manipulating the spreadsheet
 
-```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt="Right clicking on a column or row brings up a menu which allows the user to perform more functions such as by inserting/deleting columns and rows, filtering, and sorting data."}
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt="An image showing that right clicking on a column or row brings up a menu which allows the user to perform more functions such as by inserting/deleting columns and rows, filtering, and sorting data."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/1ah82NLd1weER1SUEJ9aPFDWT2vLg5wK5JW6tjdVkf6o/edit#slide=id.g3b212331eba_0_28")
 ```
 
