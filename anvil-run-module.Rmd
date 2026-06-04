@@ -1,5 +1,5 @@
 
-## Running a module on AnVIL
+## Running a module on AnVIL 
 <!-- change fig.align quotes from single to double -->
 ```{r, fig.align="center", out.width="100%", echo = FALSE, fig.alt= "Title card for Running modules on AnVIL including running the modules and then closing the session. A prerequisite is listed: Your instructor (if you are a student) has added you to an AnVIL workspace."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/11wb3b7i9SwrDX_WO3mWNAycd2mbY4Moy8SuT0X3XvXo/edit#slide=id.g3709d9ac459_0_250")
