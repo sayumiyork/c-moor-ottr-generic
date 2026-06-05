@@ -4,7 +4,7 @@
 ottrpal::set_knitr_image_path()
 ```
 
-## SciServer
+## SciServer Onboarding
 
 ### Join SciServer
 
