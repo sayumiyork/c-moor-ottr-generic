@@ -1,25 +1,24 @@
 url	chapt_title	img_path
 https://science.c-moor.org/c-moor-ottr-generic/index.html	About	resources/chapt_screen_images/index.png
-https://science.c-moor.org/c-moor-ottr-generic/c-moor-overview.html	1 C-MOOR Overview	resources/chapt_screen_images/c-moor-overview.png
-https://science.c-moor.org/c-moor-ottr-generic/how-to-use-a-c-moor-curriculum.html	2 How to use a C-MOOR curriculum	resources/chapt_screen_images/how-to-use-a-c-moor-curriculum.png
-https://science.c-moor.org/c-moor-ottr-generic/cloud-platforms.html	3 Cloud platforms	resources/chapt_screen_images/cloud-platforms.png
-https://science.c-moor.org/c-moor-ottr-generic/sciserver.html	3.1 SciServer	resources/chapt_screen_images/sciserver.png
-https://science.c-moor.org/c-moor-ottr-generic/anvil.html	3.2 AnVIL	resources/chapt_screen_images/anvil.png
-https://science.c-moor.org/c-moor-ottr-generic/setting-up-workspaces-on-anvil.html	3.3 Setting up workspaces on AnVIL	resources/chapt_screen_images/setting-up-workspaces-on-anvil.png
-https://science.c-moor.org/c-moor-ottr-generic/scientific-posters.html	4 Scientific Posters	resources/chapt_screen_images/scientific-posters.png
-https://science.c-moor.org/c-moor-ottr-generic/making-a-group-poster.html	4.1 Making a Group Poster	resources/chapt_screen_images/making-a-group-poster.png
-https://science.c-moor.org/c-moor-ottr-generic/lecture---scientific-posters.html	4.2 Lecture - Scientific Posters	resources/chapt_screen_images/lecture---scientific-posters.png
-https://science.c-moor.org/c-moor-ottr-generic/activity---scientific-posters.html	4.3 Activity - Scientific Posters	resources/chapt_screen_images/activity---scientific-posters.png
-https://science.c-moor.org/c-moor-ottr-generic/activity---share-your-poster.html	4.4 Activity - Share Your Poster	resources/chapt_screen_images/activity---share-your-poster.png
-https://science.c-moor.org/c-moor-ottr-generic/professional-development.html	5 Professional Development	resources/chapt_screen_images/professional-development.png
-https://science.c-moor.org/c-moor-ottr-generic/lecture---next-steps.html	5.1 Lecture - Next Steps	resources/chapt_screen_images/lecture---next-steps.png
-https://science.c-moor.org/c-moor-ottr-generic/activity---next-steps.html	5.2 Activity - Next Steps	resources/chapt_screen_images/activity---next-steps.png
-https://science.c-moor.org/c-moor-ottr-generic/create-your-cv.html	5.3 Create your CV	resources/chapt_screen_images/create-your-cv.png
-https://science.c-moor.org/c-moor-ottr-generic/c-moor-scholars.html	6 C-MOOR Scholars	resources/chapt_screen_images/c-moor-scholars.png
-https://science.c-moor.org/c-moor-ottr-generic/c-moor-scholars-1.html	6.1 C-MOOR Scholars	resources/chapt_screen_images/c-moor-scholars-1.png
-https://science.c-moor.org/c-moor-ottr-generic/pursue-further-research.html	6.2 Pursue further research	resources/chapt_screen_images/pursue-further-research.png
-https://science.c-moor.org/c-moor-ottr-generic/biodigs.html	6.3 BioDIGS	resources/chapt_screen_images/biodigs.png
-https://science.c-moor.org/c-moor-ottr-generic/online-community.html	7 Online Community	resources/chapt_screen_images/online-community.png
-https://science.c-moor.org/c-moor-ottr-generic/spreadsheets-101.html	8 Spreadsheets 101	resources/chapt_screen_images/spreadsheets-101.png
-https://science.c-moor.org/c-moor-ottr-generic/figure-and-tables-guide.html	9 Figure and tables guide	resources/chapt_screen_images/figure-and-tables-guide.png
+https://science.c-moor.org/c-moor-ottr-generic/how-to-use-a-c-moor-curriculum.html	1 How to use a C-MOOR curriculum	resources/chapt_screen_images/how-to-use-a-c-moor-curriculum.png
+https://science.c-moor.org/c-moor-ottr-generic/cloud-platforms.html	2 Cloud platforms	resources/chapt_screen_images/cloud-platforms.png
+https://science.c-moor.org/c-moor-ottr-generic/sciserver.html	2.1 SciServer	resources/chapt_screen_images/sciserver.png
+https://science.c-moor.org/c-moor-ottr-generic/anvil.html	2.2 AnVIL	resources/chapt_screen_images/anvil.png
+https://science.c-moor.org/c-moor-ottr-generic/setting-up-workspaces-on-anvil.html	2.3 Setting up workspaces on AnVIL	resources/chapt_screen_images/setting-up-workspaces-on-anvil.png
+https://science.c-moor.org/c-moor-ottr-generic/scientific-posters.html	3 Scientific Posters	resources/chapt_screen_images/scientific-posters.png
+https://science.c-moor.org/c-moor-ottr-generic/making-a-group-poster.html	3.1 Making a Group Poster	resources/chapt_screen_images/making-a-group-poster.png
+https://science.c-moor.org/c-moor-ottr-generic/lecture---scientific-posters.html	3.2 Lecture - Scientific Posters	resources/chapt_screen_images/lecture---scientific-posters.png
+https://science.c-moor.org/c-moor-ottr-generic/activity---scientific-posters.html	3.3 Activity - Scientific Posters	resources/chapt_screen_images/activity---scientific-posters.png
+https://science.c-moor.org/c-moor-ottr-generic/activity---share-your-poster.html	3.4 Activity - Share Your Poster	resources/chapt_screen_images/activity---share-your-poster.png
+https://science.c-moor.org/c-moor-ottr-generic/professional-development.html	4 Professional Development	resources/chapt_screen_images/professional-development.png
+https://science.c-moor.org/c-moor-ottr-generic/lecture---next-steps.html	4.1 Lecture - Next Steps	resources/chapt_screen_images/lecture---next-steps.png
+https://science.c-moor.org/c-moor-ottr-generic/activity---next-steps.html	4.2 Activity - Next Steps	resources/chapt_screen_images/activity---next-steps.png
+https://science.c-moor.org/c-moor-ottr-generic/create-your-cv.html	4.3 Create your CV	resources/chapt_screen_images/create-your-cv.png
+https://science.c-moor.org/c-moor-ottr-generic/c-moor-scholars.html	5 C-MOOR Scholars	resources/chapt_screen_images/c-moor-scholars.png
+https://science.c-moor.org/c-moor-ottr-generic/c-moor-scholars-1.html	5.1 C-MOOR Scholars	resources/chapt_screen_images/c-moor-scholars-1.png
+https://science.c-moor.org/c-moor-ottr-generic/pursue-further-research.html	5.2 Pursue further research	resources/chapt_screen_images/pursue-further-research.png
+https://science.c-moor.org/c-moor-ottr-generic/biodigs.html	5.3 BioDIGS	resources/chapt_screen_images/biodigs.png
+https://science.c-moor.org/c-moor-ottr-generic/online-community.html	6 Online Community	resources/chapt_screen_images/online-community.png
+https://science.c-moor.org/c-moor-ottr-generic/spreadsheets-101.html	7 Spreadsheets 101	resources/chapt_screen_images/spreadsheets-101.png
+https://science.c-moor.org/c-moor-ottr-generic/figure-and-tables-guide.html	8 Figure and tables guide	resources/chapt_screen_images/figure-and-tables-guide.png
 https://science.c-moor.org/c-moor-ottr-generic/references-1.html	References	resources/chapt_screen_images/references-1.png
