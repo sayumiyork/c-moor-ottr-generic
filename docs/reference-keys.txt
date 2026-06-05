@@ -1,6 +1,5 @@
 fig:unnamed-chunk-1
-c-moor-overview
-about-c-moor
+what-is-c-moor
 why-data-science
 learning-goals-1
 how-to-use-a-c-moor-curriculum
