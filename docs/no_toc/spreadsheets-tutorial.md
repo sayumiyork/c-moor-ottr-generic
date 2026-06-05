@@ -90,7 +90,7 @@ To use the calculation multiple times, we can do the following, all of which wil
 
 ### Manipulating the spreadsheet
 
-<img src="spreadsheets-tutorial_files/figure-html//1ah82NLd1weER1SUEJ9aPFDWT2vLg5wK5JW6tjdVkf6o_g3b212331eba_0_28.png" alt="Right clicking on a column or row brings up a menu which allows the user to perform more functions such as by inserting/deleting columns and rows, filtering, and sorting data." width="100%" style="display: block; margin: auto;" />
+<img src="spreadsheets-tutorial_files/figure-html//1ah82NLd1weER1SUEJ9aPFDWT2vLg5wK5JW6tjdVkf6o_g3b212331eba_0_28.png" alt="An image showing that right clicking on a column or row brings up a menu which allows the user to perform more functions such as by inserting/deleting columns and rows, filtering, and sorting data." width="100%" style="display: block; margin: auto;" />
 
 Right clicking a column or row brings up a menu with options for adding or deleting columns/rows, filtering data, or sorting the spreadsheet.
 
