@@ -4,6 +4,7 @@ repo: https://github.com/jhudsl/OTTR_Template/
 rmd_files: ["index.Rmd",
             "about-c-moor.Rmd",
             "how-to-use-this-book.Rmd",
+            "cloud-platforms.Rmd",
             "sciserver.Rmd",
             "anvil.Rmd",
             "anvil-setup-workspace.Rmd",
