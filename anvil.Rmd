@@ -1,3 +1,64 @@
+<!-- Set up code of OTTR Book-->
+
+```{r, include = FALSE}
+ottrpal::set_knitr_image_path()
+```
+
+## AnVIL
+
+### Join AnVIL
+
+#### Purpose
+
+You will need an account on AnVIL in order to use the platform. In this section we'll go over the specifics of account creation.  
+
+#### Learning Objectives
+
+1. Create an account on AnVIL
+1. Login to AnVIL
+1. Share the email you used to sign up for AnVIL with your instructor (if applicable)
+
+#### Introduction
+
+AnVIL (The Genomic Data Science **An**alysis, **V**isualization, and **I**nformatics **L**ab-space) is a platform created by the National Human Genome Research Institute (NHGRI) in collaboration with cloud computing platform providers like Google and Microsoft. Using AnVIL we can access computing resources on the cloud through your browser without need for any fancy physical equipment. Through AnVIL you will also have access to all the software and data necessary to complete your research project. 
+
+In this section, we will set up our accounts on AnVIL and go through the entire lifecycle of an RStudio environment from creation to deletion. You will repeat this process throughout the semester; feel free to refer back to this section if you need a refresher on how to use AnVIL.
+
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Title card for sign up for an AnVIL account which notes a prerequisitite: A Google associated email address such as an institutional account that uses Gmail or a personal Gmail"}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1uwlG7uaTOnItdpd4Ll6nNQiBJKBivsvR-erupicAwJM/edit?slide=id.g3709d9ac459_0_250#slide=id.g3709d9ac459_0_250")
+```
+
+#### Part 1 -- Create an account on AnVIL
+
+Follow the written steps below or refer to the [slides](https://docs.google.com/presentation/d/1uwlG7uaTOnItdpd4Ll6nNQiBJKBivsvR-erupicAwJM/edit?usp=sharing) or video guide.
+
+
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt="Image showing the AnVIL homescreen and accessing the sign in button through the hamburger icon in the top right corner of the page."}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1uwlG7uaTOnItdpd4Ll6nNQiBJKBivsvR-erupicAwJM/edit#slide=id.g3709d9ac459_0_299")
+```
+
+1. Open [anvil.terra.bio](https://anvil.terra.bio/) in <mark> **Google Chrome** </mark>. Google Chrome is the only officially supported web browser for AnVIL. Because of this, while you can run AnVIL in other browsers you strongly suggest using Chrome.
+    - Tip: bookmark this page so that you can easily access it throughout the course.
+1. Click the hamburger icon (3 lines) in the top left corner of the screen 
+1. Click "Sign in"
+
+
+```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Screenshots of signing into Terra with a Google associated account."}
+ottrpal::include_slide("https://docs.google.com/presentation/d/1uwlG7uaTOnItdpd4Ll6nNQiBJKBivsvR-erupicAwJM/edit#slide=id.g36368ab83bf_0_2")
+```
+
+4. Click "Sign in with Google".
+5. Sign in with a <mark>**Google associated email address**</mark> such as an institutional email that uses Gmail or a personal Gmail account. You must use a Google associated email address to gain access to Google Cloud computing resources. 
+6. If you are a student, share the email you used to sign up for AnVIL with your instructor following their instructions.
+
+<mark>**Instructors should collect the student emails and use them in the next section, "Setting up workspaces on AnVIL." Students do not need to set up a workspace, and should proceed to the section, "Running a module on AnVIL".**</mark> 
+
+##### Resources
+
+- [AnVIL](https://anvil.terra.bio/) 
+- [How to add a bookmark in Chrome](https://support.google.com/chrome/answer/188842)
+- [AnVIL support home](https://support.terra.bio/hc/en-us)
+
 
 ### Running a module on AnVIL
 <!-- change fig.align quotes from single to double -->
@@ -106,7 +167,7 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/11wb3b7i9SwrDX_WO
 - [AnVIL](https://anvil.terra.bio/) 
 - [Get help with AnVIL on the C-MOOR Discourse](https://help.c-moor.org/c/help/)
 
-#### Part 4 -- Closing out a session on AnVIL
+#### Part 3 -- Closing out a session on AnVIL
 
 ```{r, fig.align='center', out.width="100%", echo = FALSE, fig.alt= "Image showing the steps needed to close out an interactive session on AnVIL with each step in the list below shown in a red box."}
 ottrpal::include_slide("https://docs.google.com/presentation/d/11wb3b7i9SwrDX_WO3mWNAycd2mbY4Moy8SuT0X3XvXo/edit#slide=id.g3709d9ac459_0_299")
@@ -129,3 +190,6 @@ ottrpal::include_slide("https://docs.google.com/presentation/d/11wb3b7i9SwrDX_WO
 - Sayumi York, Notre Dame of Maryland University
 
 Last Revised: June 5, 2026
+
+
+
