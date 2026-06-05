@@ -3,7 +3,7 @@
 
 <mark>**This section is only for instructors. Students do NOT have to set up workspaces.**</mark>
 
-<img src="anvil-setup-workspace_files/figure-html//1uCiZDAwgh1iM5XPlpbK5uz7oVBujmimUXVQaR8iGuho_g368970cb22e_0_75.png" alt="test1" width="100%" style="display: block; margin: auto;" />
+<img src="anvil-setup-workspace_files/figure-html//1uCiZDAwgh1iM5XPlpbK5uz7oVBujmimUXVQaR8iGuho_g368970cb22e_0_75.png" alt="Title card for setting up workspaces on AnVIL, which will cover managing students with groups, cloning a workspace for your class, and adding students to the workspace. A prerequisite is noted: you must have a billing account on AnVIL." width="100%" style="display: block; margin: auto;" />
 
 Follow the written steps below or refer to the [slides](https://docs.google.com/presentation/d/1uCiZDAwgh1iM5XPlpbK5uz7oVBujmimUXVQaR8iGuho/edit?usp=sharing) or video guide.
 
@@ -32,7 +32,7 @@ For more information on how to control computing charges, please see the Terra g
 ### Using groups to manage classes
 
 
-<img src="anvil-setup-workspace_files/figure-html//1uCiZDAwgh1iM5XPlpbK5uz7oVBujmimUXVQaR8iGuho_g37166799c0e_0_17.png" alt="test4" width="100%" style="display: block; margin: auto;" />
+<img src="anvil-setup-workspace_files/figure-html//1uCiZDAwgh1iM5XPlpbK5uz7oVBujmimUXVQaR8iGuho_g37166799c0e_0_17.png" alt="An image showing the steps to access groups within AnVIL following along with instructions below." width="100%" style="display: block; margin: auto;" />
 
 We recommend you manage students and their access to workspaces through groups. When people are added to a group, they are given a new group email address that controls everyone within that group. For example, if there are 20 people in the group, all 20 are added at one time when the group email is used to give a group access to a workspace. Likewise, we recommend any management of students, such as removal or additions later in the class, be managed through the group interface.
 
@@ -46,7 +46,7 @@ We recommend you manage students and their access to workspaces through groups. 
 
 ### Clone a workspace on AnVIL
 
-<img src="anvil-setup-workspace_files/figure-html//1uCiZDAwgh1iM5XPlpbK5uz7oVBujmimUXVQaR8iGuho_g368970cb22e_0_0.png" width="100%" style="display: block; margin: auto;" />
+<img src="anvil-setup-workspace_files/figure-html//1uCiZDAwgh1iM5XPlpbK5uz7oVBujmimUXVQaR8iGuho_g368970cb22e_0_0.png" alt="Image showing the steps to cloning a workspace in the workspaces tab on AnVIL following step-by-step directions below. Text reads: We recommend cloning one workspace for each section you teach. Each workspace can be shared by about 50 students without issue. You can clone multiple workspaces for exceptionally large classes." width="100%" style="display: block; margin: auto;" />
 
 The instructor will clone the workspace in AnVIL. We recommend cloning one workspace for each section you teach. Each workspace can be shared by approximately 50 students without issue. You can clone multiple workspaces for exceptionally large classes. Students in a given section will use the cloned workspace for all learning modules and the research project.
 
@@ -56,13 +56,13 @@ The instructor will clone the workspace in AnVIL. We recommend cloning one works
 3. Search for the desired workspace. Your instructor will tell you which workspace to look for (miniCURE-RNA-seq or miniCURE-16S-microbiome).
 4. Click on the more options icon on the right side of the desired workspace and click clone
 
-<img src="anvil-setup-workspace_files/figure-html//1uCiZDAwgh1iM5XPlpbK5uz7oVBujmimUXVQaR8iGuho_g368970cb22e_0_147.png" width="100%" style="display: block; margin: auto;" />
+<img src="anvil-setup-workspace_files/figure-html//1uCiZDAwgh1iM5XPlpbK5uz7oVBujmimUXVQaR8iGuho_g368970cb22e_0_147.png" alt="Image showing the Clone Workspace image in AnVIL with red boxes highlighting fields to change the workspace name and associated billing project." width="100%" style="display: block; margin: auto;" />
 
 
 5. Give the cloned workspace a unique name. We recommend choosing the class and section name that the workspace is intended for.
 6. Confirm the billing project is the one you want to use. In this example, we have a billing project by semester and curriculum. All computational costs by students in the workspace will be billed ot this account.
 
-<img src="anvil-setup-workspace_files/figure-html//1uCiZDAwgh1iM5XPlpbK5uz7oVBujmimUXVQaR8iGuho_g368970cb22e_0_151.png" width="100%" style="display: block; margin: auto;" />
+<img src="anvil-setup-workspace_files/figure-html//1uCiZDAwgh1iM5XPlpbK5uz7oVBujmimUXVQaR8iGuho_g368970cb22e_0_151.png" alt="A screenshot of the clone workspace window in AnVIL in tab 2, the sharing tab, where user emails can be used to give access to the workspace. The example settings are to add with writer permissions, including compute access." width="100%" style="display: block; margin: auto;" />
 
 7. In the sharing step, add the students to the workspace using their group email. Refer to the section on managing students with groups for more information on adding students to groups.
 8. Make the students writers.

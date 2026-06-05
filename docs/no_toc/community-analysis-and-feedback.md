@@ -9,7 +9,7 @@
 
 <!-- change fig.align quotes from single to double and remove fig alt-->
 
-<img src="community-analysis-and-feedback_files/figure-html//1-orSi8DpN22hMt9-6p_rHZnte1YXXLe-a132HDSyd0U_g35f391192_00.png" width="100%" style="display: block; margin: auto;" />
+<img src="community-analysis-and-feedback_files/figure-html//1-orSi8DpN22hMt9-6p_rHZnte1YXXLe-a132HDSyd0U_g35f391192_00.png" alt="Title card for a lecture on making a research poster" width="100%" style="display: block; margin: auto;" />
 
 [Scientific Posters](https://docs.google.com/presentation/d/1coAc4GY1CkpiBcamCYsEemjOsa6zTWiK6kd2C1iAaKA/edit?usp=sharing)
 
@@ -171,13 +171,13 @@ Last Revised: January 2026
 
 Now that you've finished your C-MOOR project, how do you close out your research experience or take it further? In this section we'll explore how to publicize and use your experience to help build your professional career.
 
-<img src="community-analysis-and-feedback_files/figure-html//1hYKF7Ss3vJ8rrUIH7ByNh1BUlRa2fhsJhq8MXzEowCc_g344ad28629a_0_229.png" alt="Image test" width="100%" style="display: block; margin: auto;" />
+<img src="community-analysis-and-feedback_files/figure-html//1hYKF7Ss3vJ8rrUIH7ByNh1BUlRa2fhsJhq8MXzEowCc_g344ad28629a_0_229.png" alt="An image showing branching road ways. The branches are labeled: miniCUREs + CURES, biology classes, C-MOOR scholars, computer science classes, and independent research projects. Some roads have example text and iconography shown next to them including the list of C-MOOR curricula, lists of classes they have been offered in, and the C-MOOR website. Small text in the bottom right corner credits the source for the road art." width="100%" style="display: block; margin: auto;" />
 
 ## Lecture - Next Steps
 
 *Estimated time: ---*
 
-<img src="community-analysis-and-feedback_files/figure-html//1cH7vm_lAxe_JUlr1H_M5Ujas-pTUY8qPBthTcSOiIXA_g35f391192_00.png" alt="Image test" width="100%" style="display: block; margin: auto;" />
+<img src="community-analysis-and-feedback_files/figure-html//1cH7vm_lAxe_JUlr1H_M5Ujas-pTUY8qPBthTcSOiIXA_g35f391192_00.png" alt="A title card for the lecture on potential next steps for C-MOOR students" width="100%" style="display: block; margin: auto;" />
 
 [Slides: Next Steps](https://docs.google.com/presentation/d/1cH7vm_lAxe_JUlr1H_M5Ujas-pTUY8qPBthTcSOiIXA/edit?usp=sharing)
 
@@ -317,7 +317,7 @@ A: You can, however we suggest being explicit in your experience and add the lev
 
 ## C-MOOR Scholars
 
-<img src="community-analysis-and-feedback_files/figure-html//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g362a06a915d_2_4.png" alt="Image test" width="100%" style="display: block; margin: auto;" />
+<img src="community-analysis-and-feedback_files/figure-html//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g362a06a915d_2_4.png" alt="An image that shows the C-MOOR logo next to Scholars in big font. Below this there are 4 bullet points which read: 1) More research opportunities: BioDIGS, WGS, 16S, and RNA-seq! 2) Lab meetings and mentorship from more experienced scholars 3) Talk science: the who, how, and why we do things the way they do and why it matters 4) Gain skills in bioinformatics and build a strong foundation in genomics, no experience necessary!" width="100%" style="display: block; margin: auto;" />
 
 C-MOOR Scholars are research clubs that function as an extension of the C-MOOR curriculum. You can explore techniques and concepts from modules you've yet to take to learn about different approaches we can use to explore different questions through genomics, connect with other scholars and mentors, and experience the climate of a research lab. 
 
@@ -353,7 +353,7 @@ Meet some of the C-MOOR Scholars and learn how you can support them
 
 Perhaps you're interested in pursuing research beyond what C-MOOR currently provides. Maybe you're more interested in wet lab work, or a specific model organism. We encourage you to try all sorts of different opportunities even if you feel totally comfortable working with C-MOOR so you can better understand what kind of roles suit you best. This section serves as a guide for some common jumping off points to find outside research opportunities.
 
-<img src="community-analysis-and-feedback_files/figure-html//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g362974128df_0_98.png" alt="Image test" width="100%" style="display: block; margin: auto;" />
+<img src="community-analysis-and-feedback_files/figure-html//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g362974128df_0_98.png" alt="A picture of Gauri Paul, a previous C-MOOR student and scholar working with Drosophila at a microscope." width="100%" style="display: block; margin: auto;" />
 
 ### Research opportunities at your institution
 
@@ -390,7 +390,7 @@ Don't be surprised if it takes the researcher a while to get back to you or if t
 
 This section is primarily geared toward instructors as students will be able to get access to the BioDIGS data through their local C-MOOR Scholars chapter.
 
-<img src="community-analysis-and-feedback_files/figure-html//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g362a06a915d_2_10.png" alt="Image test" width="100%" style="display: block; margin: auto;" />
+<img src="community-analysis-and-feedback_files/figure-html//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g362a06a915d_2_10.png" alt="A multi panel image with photos and icons relating to BioDIGS. In the top left corner is the GDSCN BioDIGS project label, beneath which is a map of the United States with pins on each BioDIGS sampling site and a photo of two people collecting a soil sample. In the top half of the slide contains a pipeline for sampling soil, including applying for permits, pooling and homogenizing soil, taking photos, recoreding GPS and field notes, and repeating at different sites. Icons of soil, buckets, a smart phone, sample tubes, bags of dirt, and a plan for sampling replicates. On the bottom half of the image is a pathway from soil testing and DNA sequencing to computational analysis. Icons show a sample of soil being analyzed by a machine to look at levels of lead, cadmium, arsenic, organic components, and pH. On the right side are the icons for AnVIL, Galaxy, and Bioconductor next to a scatterplot." width="100%" style="display: block; margin: auto;" />
 
 **What is BioDIGS?**: [BioDIGS](biodigs.org) is a project from the Genomic Data Science Community Network (GDSCN), which aims to characterize the microbiome of soil throughout sites in the US while connecting scientists to research. 
 
@@ -409,13 +409,13 @@ Below is a sampling of some discussion forums that you may find useful:
 - [AnVIL forum](https://help.anvilproject.org){target="_blank"} for all things related to the cloud computing platform, AnVIL
 - [BioDIGS](https://biodigs.org/#home) for interactions with the GDSCN BioDIGS consortium 
 
-<img src="community-analysis-and-feedback_files/figure-html//1fH9s5OLcRF5meZtFWTJe89RFvJSh125kdjhdqp5smqA_g302b08c5e6e_0_16.png" alt="Image test" width="100%" style="display: block; margin: auto;" />
+<img src="community-analysis-and-feedback_files/figure-html//1fH9s5OLcRF5meZtFWTJe89RFvJSh125kdjhdqp5smqA_g302b08c5e6e_0_16.png" alt="An example image of the C-MOOR homepage. An arrow labeled Example miniCUREs points towards a post with a student research poster." width="100%" style="display: block; margin: auto;" />
 
-<img src="community-analysis-and-feedback_files/figure-html//1fH9s5OLcRF5meZtFWTJe89RFvJSh125kdjhdqp5smqA_g302b08c5e6e_0_5.png" alt="Image test" width="100%" style="display: block; margin: auto;" />
+<img src="community-analysis-and-feedback_files/figure-html//1fH9s5OLcRF5meZtFWTJe89RFvJSh125kdjhdqp5smqA_g302b08c5e6e_0_5.png" alt="An image of the Galaxy Help homepage. An arrow titled All things Galaxy points towards a post." width="100%" style="display: block; margin: auto;" />
 
-<img src="community-analysis-and-feedback_files/figure-html//1fH9s5OLcRF5meZtFWTJe89RFvJSh125kdjhdqp5smqA_g302b08c5e6e_0_22.png" alt="Image test" width="100%" style="display: block; margin: auto;" />
+<img src="community-analysis-and-feedback_files/figure-html//1fH9s5OLcRF5meZtFWTJe89RFvJSh125kdjhdqp5smqA_g302b08c5e6e_0_22.png" alt="An image of the Bioconductor homepage with an arrow labeled All things R/Bioconductor pointing toward a post." width="100%" style="display: block; margin: auto;" />
 
-<img src="community-analysis-and-feedback_files/figure-html//1fH9s5OLcRF5meZtFWTJe89RFvJSh125kdjhdqp5smqA_g302b08c5e6e_0_12.png" alt="Image test" width="100%" style="display: block; margin: auto;" />
+<img src="community-analysis-and-feedback_files/figure-html//1fH9s5OLcRF5meZtFWTJe89RFvJSh125kdjhdqp5smqA_g302b08c5e6e_0_12.png" alt="An image of the AnVIL help forum homepage. A labeled arrow that reads GDSCN BioDIGS points toward a category labeled GDSCN." width="100%" style="display: block; margin: auto;" />
 
 
 
