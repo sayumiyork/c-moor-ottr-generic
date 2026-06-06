@@ -3,6 +3,10 @@
 
 C-MOOR is a project to invite students to join the data science revolution and be part of the next generation of data scientists. This project provides online materials to help students and instructors incorporate authentic research experiences in lower division courses. 
 
+
+<img src="about-c-moor_files/figure-html//1dI8-_iVqbkzNMf11M4dK85E8ZW3OyZECs_YwMKw5fhs_g365128907e6_0_158.png" alt="Image showing the timeline of C-MOOR as an organization including funding and sites where C-MOOR curricula have been taught." width="100%" style="display: block; margin: auto;" />
+
+
 Over the years, C-MOOR has expanded its curricula to include RNA-seq, scRNA-seq, 16S amplicon sequencing, and WGS modules. Here's some statistics about C-MOOR students:
 
 - **Students taught:** 950+. 
